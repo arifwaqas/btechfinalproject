@@ -1,0 +1,37 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>8c4371ee-a997-4b21-82c4-cb5e767c4d06___kia-sorento-spied-in-India.jpg.jpeg</filename>
+    <path>vehicle-PascalVOC-export/Annotations/8c4371ee-a997-4b21-82c4-cb5e767c4d06___kia-sorento-spied-in-India.jpg.jpeg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>660</width>
+        <height>432</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>232.94897314306493</xmin>
+        <ymin>181.354130456207</ymin>
+        <xmax>362.43846263255443</xmax>
+        <ymax>226.27156164886756</ymax>
+    </bndbox>
+</object><object>
+    <name>car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>66.99098695863833</xmin>
+        <ymin>39.732106060063074</ymin>
+        <xmax>525.2252252252252</xmax>
+        <ymax>420.7376126630591</ymax>
+    </bndbox>
+</object>
+</annotation>

@@ -1,0 +1,37 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>bbf22d00-3dd6-4338-b701-264e0c0c0aff___Maruti-Swift-DZire-Photos-1.jpg.jpeg</filename>
+    <path>vehicle-PascalVOC-export/Annotations/bbf22d00-3dd6-4338-b701-264e0c0c0aff___Maruti-Swift-DZire-Photos-1.jpg.jpeg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>591</width>
+        <height>479</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>187.89947715776736</xmin>
+        <ymin>229.48701390842933</ymin>
+        <xmax>387.51408944904665</xmax>
+        <ymax>279.8226029994124</ymax>
+    </bndbox>
+</object><object>
+    <name>car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1.8088304183575872</xmin>
+        <ymin>2.7062146892655368</ymin>
+        <xmax>591</xmax>
+        <ymax>479</ymax>
+    </bndbox>
+</object>
+</annotation>

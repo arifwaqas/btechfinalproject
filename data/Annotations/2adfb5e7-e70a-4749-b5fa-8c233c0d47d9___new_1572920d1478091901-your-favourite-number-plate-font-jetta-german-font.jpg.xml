@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>2adfb5e7-e70a-4749-b5fa-8c233c0d47d9___new_1572920d1478091901-your-favourite-number-plate-font-jetta-german-font.jpg.jpeg</filename>
+    <path>vehicle-PascalVOC-export/Annotations/2adfb5e7-e70a-4749-b5fa-8c233c0d47d9___new_1572920d1478091901-your-favourite-number-plate-font-jetta-german-font.jpg.jpeg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>500</width>
+        <height>250</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>154.35802456141636</xmin>
+        <ymin>93.98408239700375</ymin>
+        <xmax>374.7891226771175</xmax>
+        <ymax>149.0402650297358</ymax>
+    </bndbox>
+</object>
+</annotation>

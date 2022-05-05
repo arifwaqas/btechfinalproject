@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>4d07a3ac-d373-4d27-9335-a3d32d19afcf___Funny-Bike-Number-Plate-AK56.jpg.jpeg</filename>
+    <path>vehicle-PascalVOC-export/Annotations/4d07a3ac-d373-4d27-9335-a3d32d19afcf___Funny-Bike-Number-Plate-AK56.jpg.jpeg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>450</width>
+        <height>600</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>20.16948118048199</xmin>
+        <ymin>168.1355880478681</ymin>
+        <xmax>408.64407814155186</xmax>
+        <ymax>403.3898305084746</ymax>
+    </bndbox>
+</object>
+</annotation>

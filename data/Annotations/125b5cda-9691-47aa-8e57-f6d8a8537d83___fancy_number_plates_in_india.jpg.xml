@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>125b5cda-9691-47aa-8e57-f6d8a8537d83___fancy_number_plates_in_india.jpg.jpeg</filename>
+    <path>vehicle-PascalVOC-export/Annotations/125b5cda-9691-47aa-8e57-f6d8a8537d83___fancy_number_plates_in_india.jpg.jpeg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>498</width>
+        <height>313</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>47.69972453524045</xmin>
+        <ymin>94.41972870328533</ymin>
+        <xmax>401.66709263523603</xmax>
+        <ymax>182.2465943749271</ymax>
+    </bndbox>
+</object>
+</annotation>

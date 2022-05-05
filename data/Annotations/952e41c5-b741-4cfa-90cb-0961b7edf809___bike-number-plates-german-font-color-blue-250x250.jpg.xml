@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>952e41c5-b741-4cfa-90cb-0961b7edf809___bike-number-plates-german-font-color-blue-250x250.jpg.jpeg</filename>
+    <path>vehicle-PascalVOC-export/Annotations/952e41c5-b741-4cfa-90cb-0961b7edf809___bike-number-plates-german-font-color-blue-250x250.jpg.jpeg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>248</width>
+        <height>177</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>25.275001525878906</xmin>
+        <ymin>53.80000305175781</ymin>
+        <xmax>215.47500610351562</xmax>
+        <ymax>149.60000610351562</ymax>
+    </bndbox>
+</object>
+</annotation>

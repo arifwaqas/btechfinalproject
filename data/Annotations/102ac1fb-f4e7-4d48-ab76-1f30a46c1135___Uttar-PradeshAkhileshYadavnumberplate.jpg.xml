@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>102ac1fb-f4e7-4d48-ab76-1f30a46c1135___Uttar-PradeshAkhileshYadavnumberplate.jpg.jpeg</filename>
+    <path>vehicle-PascalVOC-export/Annotations/102ac1fb-f4e7-4d48-ab76-1f30a46c1135___Uttar-PradeshAkhileshYadavnumberplate.jpg.jpeg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>300</width>
+        <height>404</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>107.89447972983008</xmin>
+        <ymin>127.36271883000087</ymin>
+        <xmax>231.54469769263903</xmax>
+        <ymax>188.53332985053626</ymax>
+    </bndbox>
+</object>
+</annotation>

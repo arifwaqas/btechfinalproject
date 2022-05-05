@@ -1,0 +1,37 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>ca18d733-ec53-49d9-87aa-a9f6c52cc7bb___VW-Polo-GT-TSI-badge-on-the-grille.jpg.jpeg</filename>
+    <path>vehicle-PascalVOC-export/Annotations/ca18d733-ec53-49d9-87aa-a9f6c52cc7bb___VW-Polo-GT-TSI-badge-on-the-grille.jpg.jpeg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>500</width>
+        <height>333</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>104.8048017499922</xmin>
+        <ymin>222.93750381469727</ymin>
+        <xmax>394.2943187327953</xmax>
+        <ymax>295.737491607666</ymax>
+    </bndbox>
+</object><object>
+    <name>car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>4.66321243523316</xmin>
+        <ymin>5.47219388730058</ymin>
+        <xmax>499.99999999999994</xmax>
+        <ymax>333</ymax>
+    </bndbox>
+</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>5cbd7465-ad12-4e6b-8eaf-d7056c3852f8___New-2018-Maruti-Suzuki-Swift-radiator-grille-600x398.jpg.jpeg</filename>
+    <path>vehicle-PascalVOC-export/Annotations/5cbd7465-ad12-4e6b-8eaf-d7056c3852f8___New-2018-Maruti-Suzuki-Swift-radiator-grille-600x398.jpg.jpeg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>600</width>
+        <height>398</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>333.23338516650074</xmin>
+        <ymin>234.24662132047663</ymin>
+        <xmax>498.78163074039367</xmax>
+        <ymax>294.05904726793534</ymax>
+    </bndbox>
+</object>
+</annotation>

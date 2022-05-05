@@ -1,0 +1,37 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>ed6ee171-691a-4563-a79d-4f47d8ce9f85___Maruti-Suzuki-SCross-Exterior-80675.jpg.jpeg</filename>
+    <path>vehicle-PascalVOC-export/Annotations/ed6ee171-691a-4563-a79d-4f47d8ce9f85___Maruti-Suzuki-SCross-Exterior-80675.jpg.jpeg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>600</width>
+        <height>337</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>120.86958796341226</xmin>
+        <ymin>265.42637777856356</ymin>
+        <xmax>405.0931752838703</xmax>
+        <ymax>336.0595729307055</ymax>
+    </bndbox>
+</object><object>
+    <name>car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1.1180237953707297</xmin>
+        <ymin>3.287609621167623</ymin>
+        <xmax>599.3788819875776</xmax>
+        <ymax>337</ymax>
+    </bndbox>
+</object>
+</annotation>

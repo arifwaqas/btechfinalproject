@@ -1,0 +1,37 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>e4907f73-1fbc-412c-a766-9c81bb31449c___2016-Chevrolet-TrailBlazer-India-Test-Drive-Review-e1442832290349.jpg.jpeg</filename>
+    <path>vehicle-PascalVOC-export/Annotations/e4907f73-1fbc-412c-a766-9c81bb31449c___2016-Chevrolet-TrailBlazer-India-Test-Drive-Review-e1442832290349.jpg.jpeg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>469</width>
+        <height>436</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>61.30234717822138</xmin>
+        <ymin>295.1005724890757</ymin>
+        <xmax>180.46037496731978</xmax>
+        <ymax>337.9615744035796</ymax>
+    </bndbox>
+</object><object>
+    <name>car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1.230971128608924</xmin>
+        <ymin>17.242937853107343</ymin>
+        <xmax>469.00000000000006</xmax>
+        <ymax>435.99999999999994</ymax>
+    </bndbox>
+</object>
+</annotation>

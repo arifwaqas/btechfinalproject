@@ -1,0 +1,37 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>88294212-f11c-46a7-a91a-04c9da19efa6___DSC_8221-L.jpg.jpeg</filename>
+    <path>vehicle-PascalVOC-export/Annotations/88294212-f11c-46a7-a91a-04c9da19efa6___DSC_8221-L.jpg.jpeg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>660</width>
+        <height>440</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>226.0780861427834</xmin>
+        <ymin>195.95195598430462</ymin>
+        <xmax>321.21322127791854</xmax>
+        <ymax>234.00601407071133</ymax>
+    </bndbox>
+</object><object>
+    <name>car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>125.65766572236299</xmin>
+        <ymin>48.49249854102149</ymin>
+        <xmax>583.8919241507133</xmax>
+        <ymax>386.2222464163382</ymax>
+    </bndbox>
+</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>a695aa35-a508-4c5b-ae10-6705865cf508___3e7fd381-0ae5-4421-8a70-279ee0ec1c61_Nissan-Terrano-Front-Grille-86163.jpg</filename>
+    <path>vehicle-PascalVOC-export/Annotations/a695aa35-a508-4c5b-ae10-6705865cf508___3e7fd381-0ae5-4421-8a70-279ee0ec1c61_Nissan-Terrano-Front-Grille-86163.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1056</width>
+        <height>594</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>335.50993571696694</xmin>
+        <ymin>499.48321408309124</ymin>
+        <xmax>521.551977759009</xmax>
+        <ymax>594</ymax>
+    </bndbox>
+</object>
+</annotation>

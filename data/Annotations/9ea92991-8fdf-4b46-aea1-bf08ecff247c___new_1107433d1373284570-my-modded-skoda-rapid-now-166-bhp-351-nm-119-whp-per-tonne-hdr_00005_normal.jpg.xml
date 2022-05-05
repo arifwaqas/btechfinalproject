@@ -1,0 +1,37 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>9ea92991-8fdf-4b46-aea1-bf08ecff247c___new_1107433d1373284570-my-modded-skoda-rapid-now-166-bhp-351-nm-119-whp-per-tonne-hdr_00005_normal.jpg.jpeg</filename>
+    <path>vehicle-PascalVOC-export/Annotations/9ea92991-8fdf-4b46-aea1-bf08ecff247c___new_1107433d1373284570-my-modded-skoda-rapid-now-166-bhp-351-nm-119-whp-per-tonne-hdr_00005_normal.jpg.jpeg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>500</width>
+        <height>355</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>60.832506675299335</xmin>
+        <ymin>224.6327683615819</ymin>
+        <xmax>253.81143736384936</xmax>
+        <ymax>279.1864345572089</ymax>
+    </bndbox>
+</object><object>
+    <name>car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1.8555728219815697</xmin>
+        <ymin>0</ymin>
+        <xmax>500</xmax>
+        <ymax>354.99999999999994</ymax>
+    </bndbox>
+</object>
+</annotation>

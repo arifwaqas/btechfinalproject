@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>6e772b68-a549-44e5-950e-4c376454c4e9___1557295d1474517501-toyota-innova-crysta-official-review-20160921_173216.jpg.jpeg</filename>
+    <path>vehicle-PascalVOC-export/Annotations/6e772b68-a549-44e5-950e-4c376454c4e9___1557295d1474517501-toyota-innova-crysta-official-review-20160921_173216.jpg.jpeg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>600</width>
+        <height>486</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>190.11729783815431</xmin>
+        <ymin>219.11187278618246</ymin>
+        <xmax>454.2820491834418</xmax>
+        <ymax>312.4678049895723</ymax>
+    </bndbox>
+</object>
+</annotation>

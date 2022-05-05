@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>e7a86597-7251-4e9b-9469-cd873fe6736f___Honda-Jazz-Number-Plates-Designs.jpg.jpeg</filename>
+    <path>vehicle-PascalVOC-export/Annotations/e7a86597-7251-4e9b-9469-cd873fe6736f___Honda-Jazz-Number-Plates-Designs.jpg.jpeg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>600</width>
+        <height>450</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>214.83050847457625</xmin>
+        <ymin>137.79662180755096</ymin>
+        <xmax>388.2203312243445</xmax>
+        <ymax>241.01695691124866</ymax>
+    </bndbox>
+</object>
+</annotation>

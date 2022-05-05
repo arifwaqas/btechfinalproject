@@ -1,0 +1,37 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>fb939bb1-5257-4879-bafb-539472ffb73d___Maruti-Suzuki-Brezza-Number-Plates-Design.jpg.jpeg</filename>
+    <path>vehicle-PascalVOC-export/Annotations/fb939bb1-5257-4879-bafb-539472ffb73d___Maruti-Suzuki-Brezza-Number-Plates-Design.jpg.jpeg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>484</width>
+        <height>456</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>185.181573656999</xmin>
+        <ymin>205.5864485401218</ymin>
+        <xmax>342.43323810440245</xmax>
+        <ymax>260.7186558610302</ymax>
+    </bndbox>
+</object><object>
+    <name>car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>3.1820905459387485</xmin>
+        <ymin>19.06440579689155</ymin>
+        <xmax>484</xmax>
+        <ymax>448.2711864406779</ymax>
+    </bndbox>
+</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>ad65d729-1bf7-408c-b991-f3e329f17aab___two-wheeler-number-plate-250x250.jpg.jpeg</filename>
+    <path>vehicle-PascalVOC-export/Annotations/ad65d729-1bf7-408c-b991-f3e329f17aab___two-wheeler-number-plate-250x250.jpg.jpeg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>250</width>
+        <height>250</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>11.546614479883917</xmin>
+        <ymin>6.214688726737675</ymin>
+        <xmax>250</xmax>
+        <ymax>204.51977832169183</ymax>
+    </bndbox>
+</object>
+</annotation>

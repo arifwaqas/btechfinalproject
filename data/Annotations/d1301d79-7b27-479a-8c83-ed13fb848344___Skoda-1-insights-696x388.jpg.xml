@@ -1,0 +1,37 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>d1301d79-7b27-479a-8c83-ed13fb848344___Skoda-1-insights-696x388.jpg.jpeg</filename>
+    <path>vehicle-PascalVOC-export/Annotations/d1301d79-7b27-479a-8c83-ed13fb848344___Skoda-1-insights-696x388.jpg.jpeg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>696</width>
+        <height>388</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>230.70311438519022</xmin>
+        <ymin>134.47482072908196</ymin>
+        <xmax>476.24844720496895</xmax>
+        <ymax>194.4777815014013</ymax>
+    </bndbox>
+</object><object>
+    <name>car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>6.484472049689441</xmin>
+        <ymin>0.6220282232008015</ymin>
+        <xmax>696</xmax>
+        <ymax>329.484503763759</ymax>
+    </bndbox>
+</object>
+</annotation>

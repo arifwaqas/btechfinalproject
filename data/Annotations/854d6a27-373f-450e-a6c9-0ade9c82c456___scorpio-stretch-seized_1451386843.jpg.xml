@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>854d6a27-373f-450e-a6c9-0ade9c82c456___scorpio-stretch-seized_1451386843.jpg.jpeg</filename>
+    <path>vehicle-PascalVOC-export/Annotations/854d6a27-373f-450e-a6c9-0ade9c82c456___scorpio-stretch-seized_1451386843.jpg.jpeg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>725</width>
+        <height>408</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>245.44044929939705</xmin>
+        <ymin>265.34520680709244</ymin>
+        <xmax>323.2382559561514</xmax>
+        <ymax>321.1003580873971</ymax>
+    </bndbox>
+</object>
+</annotation>

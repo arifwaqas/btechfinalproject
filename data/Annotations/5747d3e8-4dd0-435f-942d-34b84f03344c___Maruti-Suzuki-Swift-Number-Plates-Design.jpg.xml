@@ -1,0 +1,37 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>5747d3e8-4dd0-435f-942d-34b84f03344c___Maruti-Suzuki-Swift-Number-Plates-Design.jpg.jpeg</filename>
+    <path>vehicle-PascalVOC-export/Annotations/5747d3e8-4dd0-435f-942d-34b84f03344c___Maruti-Suzuki-Swift-Number-Plates-Design.jpg.jpeg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>500</width>
+        <height>430</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>143.58292460296744</xmin>
+        <ymin>246.82485505012468</ymin>
+        <xmax>340.9097701637018</xmax>
+        <ymax>309.01694173866747</ymax>
+    </bndbox>
+</object><object>
+    <name>car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>2.1491346208611786</xmin>
+        <ymin>0</ymin>
+        <xmax>500</xmax>
+        <ymax>427.57062146892656</ymax>
+    </bndbox>
+</object>
+</annotation>

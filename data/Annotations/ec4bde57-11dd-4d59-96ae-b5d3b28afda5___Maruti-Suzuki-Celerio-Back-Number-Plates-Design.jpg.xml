@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>ec4bde57-11dd-4d59-96ae-b5d3b28afda5___Maruti-Suzuki-Celerio-Back-Number-Plates-Design.jpg.jpeg</filename>
+    <path>vehicle-PascalVOC-export/Annotations/ec4bde57-11dd-4d59-96ae-b5d3b28afda5___Maruti-Suzuki-Celerio-Back-Number-Plates-Design.jpg.jpeg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>500</width>
+        <height>376</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>110.80148619957536</xmin>
+        <ymin>185.66328007757326</ymin>
+        <xmax>426.300437587082</xmax>
+        <ymax>265.1118708896098</ymax>
+    </bndbox>
+</object>
+</annotation>

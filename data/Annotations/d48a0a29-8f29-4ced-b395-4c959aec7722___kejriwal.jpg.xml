@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>d48a0a29-8f29-4ced-b395-4c959aec7722___kejriwal.jpg.jpeg</filename>
+    <path>vehicle-PascalVOC-export/Annotations/d48a0a29-8f29-4ced-b395-4c959aec7722___kejriwal.jpg.jpeg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>500</width>
+        <height>139</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>6.314706111299819</xmin>
+        <ymin>11.303438661710038</ymin>
+        <xmax>493.2712215320911</xmax>
+        <ymax>131.5978719151153</ymax>
+    </bndbox>
+</object>
+</annotation>

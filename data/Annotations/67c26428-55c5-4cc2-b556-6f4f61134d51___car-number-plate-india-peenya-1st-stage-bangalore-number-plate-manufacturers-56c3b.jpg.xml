@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>67c26428-55c5-4cc2-b556-6f4f61134d51___car-number-plate-india-peenya-1st-stage-bangalore-number-plate-manufacturers-56c3b.jpg.jpeg</filename>
+    <path>vehicle-PascalVOC-export/Annotations/67c26428-55c5-4cc2-b556-6f4f61134d51___car-number-plate-india-peenya-1st-stage-bangalore-number-plate-manufacturers-56c3b.jpg.jpeg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>2592</width>
+        <height>1936</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>37.90249826938291</xmin>
+        <ymin>778.775191312456</ymin>
+        <xmax>2472.414040867286</xmax>
+        <ymax>1437.233998444121</ymax>
+    </bndbox>
+</object>
+</annotation>

@@ -1,0 +1,37 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>ef2dc97f-bc6d-49a3-9ddb-03f54f3a20e7___Skoda-Rapid-new-Exterior-84398.jpg.jpeg</filename>
+    <path>vehicle-PascalVOC-export/Annotations/ef2dc97f-bc6d-49a3-9ddb-03f54f3a20e7___Skoda-Rapid-new-Exterior-84398.jpg.jpeg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>541</width>
+        <height>423</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>209.92858277040867</xmin>
+        <ymin>272.4406779661017</ymin>
+        <xmax>341.77496954305286</xmax>
+        <ymax>316.89154001009666</ymax>
+    </bndbox>
+</object><object>
+    <name>car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>59.451779801324506</xmin>
+        <ymin>52.57627118644068</ymin>
+        <xmax>489.86323331786576</xmax>
+        <ymax>398.62373610674325</ymax>
+    </bndbox>
+</object>
+</annotation>

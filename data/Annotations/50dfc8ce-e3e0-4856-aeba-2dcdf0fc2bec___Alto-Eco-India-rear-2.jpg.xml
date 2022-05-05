@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>50dfc8ce-e3e0-4856-aeba-2dcdf0fc2bec___Alto-Eco-India-rear-2.jpg.jpeg</filename>
+    <path>vehicle-PascalVOC-export/Annotations/50dfc8ce-e3e0-4856-aeba-2dcdf0fc2bec___Alto-Eco-India-rear-2.jpg.jpeg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>441</width>
+        <height>451</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>158.85084008894904</xmin>
+        <ymin>339.90623801710916</ymin>
+        <xmax>313.8380922085977</xmax>
+        <ymax>438.2598870056497</ymax>
+    </bndbox>
+</object>
+</annotation>

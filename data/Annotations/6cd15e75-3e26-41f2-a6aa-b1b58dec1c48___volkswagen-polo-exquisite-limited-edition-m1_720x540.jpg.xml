@@ -1,0 +1,37 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>6cd15e75-3e26-41f2-a6aa-b1b58dec1c48___volkswagen-polo-exquisite-limited-edition-m1_720x540.jpg.jpeg</filename>
+    <path>vehicle-PascalVOC-export/Annotations/6cd15e75-3e26-41f2-a6aa-b1b58dec1c48___volkswagen-polo-exquisite-limited-edition-m1_720x540.jpg.jpeg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>654</width>
+        <height>380</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>16.058854736785744</xmin>
+        <ymin>248.5859114123929</ymin>
+        <xmax>93.04331019221898</xmax>
+        <ymax>317.7213878016318</ymax>
+    </bndbox>
+</object><object>
+    <name>car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1.8388003748828492</xmin>
+        <ymin>0.482665031186996</ymin>
+        <xmax>653.9999999999999</xmax>
+        <ymax>380</ymax>
+    </bndbox>
+</object>
+</annotation>

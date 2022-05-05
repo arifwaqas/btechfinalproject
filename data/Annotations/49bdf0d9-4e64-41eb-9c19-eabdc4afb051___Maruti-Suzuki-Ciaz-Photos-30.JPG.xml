@@ -1,0 +1,37 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>49bdf0d9-4e64-41eb-9c19-eabdc4afb051___Maruti-Suzuki-Ciaz-Photos-30.JPG.jpeg</filename>
+    <path>vehicle-PascalVOC-export/Annotations/49bdf0d9-4e64-41eb-9c19-eabdc4afb051___Maruti-Suzuki-Ciaz-Photos-30.JPG.jpeg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>600</width>
+        <height>337</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>196.02626239236764</xmin>
+        <ymin>133.25284149730345</ymin>
+        <xmax>355.72635611307993</xmax>
+        <ymax>183.21210007197868</ymax>
+    </bndbox>
+</object><object>
+    <name>car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>45.32333988951207</xmin>
+        <ymin>21.632135177892515</ymin>
+        <xmax>499.68133584963687</xmax>
+        <ymax>316.43680105066056</ymax>
+    </bndbox>
+</object>
+</annotation>

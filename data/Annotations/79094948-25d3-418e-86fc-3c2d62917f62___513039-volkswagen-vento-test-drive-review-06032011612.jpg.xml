@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>79094948-25d3-418e-86fc-3c2d62917f62___513039-volkswagen-vento-test-drive-review-06032011612.jpg.jpeg</filename>
+    <path>vehicle-PascalVOC-export/Annotations/79094948-25d3-418e-86fc-3c2d62917f62___513039-volkswagen-vento-test-drive-review-06032011612.jpg.jpeg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>2592</width>
+        <height>1944</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1054.0983721199682</xmin>
+        <ymin>1019.227152161679</ymin>
+        <xmax>2310.559322033898</xmax>
+        <ymax>1271.8373216532043</ymax>
+    </bndbox>
+</object>
+</annotation>

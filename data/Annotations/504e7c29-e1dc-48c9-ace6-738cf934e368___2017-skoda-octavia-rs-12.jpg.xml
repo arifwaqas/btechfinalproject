@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>504e7c29-e1dc-48c9-ace6-738cf934e368___2017-skoda-octavia-rs-12.jpg.jpeg</filename>
+    <path>vehicle-PascalVOC-export/Annotations/504e7c29-e1dc-48c9-ace6-738cf934e368___2017-skoda-octavia-rs-12.jpg.jpeg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>500</width>
+        <height>269</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>291.1902644864398</xmin>
+        <ymin>187.5618931042608</ymin>
+        <xmax>431.3964271724168</xmax>
+        <ymax>233.67619025998</ymax>
+    </bndbox>
+</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>9f7c7dce-f9c9-4c95-a053-8f16e6e99466___new_new-maruti-alto-k10-2_625x300_41414071192.jpg.jpeg</filename>
+    <path>vehicle-PascalVOC-export/Annotations/9f7c7dce-f9c9-4c95-a053-8f16e6e99466___new_new-maruti-alto-k10-2_625x300_41414071192.jpg.jpeg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>424</width>
+        <height>249</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>142.8612768041479</xmin>
+        <ymin>160.17159870134685</ymin>
+        <xmax>322.1381381381382</xmax>
+        <ymax>208.44189549468888</ymax>
+    </bndbox>
+</object>
+</annotation>

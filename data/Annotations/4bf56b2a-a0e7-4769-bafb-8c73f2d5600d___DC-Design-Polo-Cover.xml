@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>4bf56b2a-a0e7-4769-bafb-8c73f2d5600d___DC-Design-Polo-Cover.png</filename>
+    <path>vehicle-PascalVOC-export/Annotations/4bf56b2a-a0e7-4769-bafb-8c73f2d5600d___DC-Design-Polo-Cover.png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>660</width>
+        <height>322</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>130.020626107442</xmin>
+        <ymin>13.280174797189899</ymin>
+        <xmax>640.2061855670104</xmax>
+        <ymax>321.99999999999994</ymax>
+    </bndbox>
+</object>
+</annotation>

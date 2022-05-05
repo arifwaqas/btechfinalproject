@@ -1,0 +1,260 @@
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/fe3c95e4-7bd4-40f5-98a9-9fc635957d9c___3e7fd381-0ae5-4421-8a70-279ee0ec1c61_Baleno-Number-Plates-Design.jpg.jpg 313,421,671,532,1 3,1,959,663,0
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/1.jpg
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/fe226788-616e-4c5c-8b3c-99dc7e7265cd___images5-500x500.jpg.jpeg.jpg 17,160,423,259,1
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/-1.jpg
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/fda5760a-c6ff-43a9-8ce7-61e808f109ea___3e7fd381-0ae5-4421-8a70-279ee0ec1c61_nissan_terrano_ii_nissan_terrano_ii_2_7_tdi_se_4x4_3330085523722771900.jpg.jpg 471,290,550,355,1 22,18,587,443,0
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/1.jpg
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/fd0140cc-e887-43b8-a439-24877ea77670___Maruti-Suzuki-Baleno-Number-Plates-Design.jpg.jpeg.jpg 144,135,383,187,1 3,2,500,274,0
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/1.jpg
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/fcabfaf7-160a-44bc-a543-9faee4c1c4cd___Honda-Jazz-Front-Number-Plates-Designs.jpg.jpeg.jpg 63,83,577,190,1
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/-1.jpg
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/fc1f58f0-2f54-4545-8915-2936d08dcce1___new_Skoda_Laura_DSG_Long_Term_Review-125.jpg.jpeg.jpg 180,231,354,278,1 25,30,492,358,0
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/1.jpg
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/fbc107b7-13d8-4a2d-b8be-7c96bd7d609c___new_9214a754343030395508e104d7948167_large.jpg.jpeg.jpg 106,349,280,388,1 3,3,429,450,0
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/1.jpg
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/fbb2b3ed-4db1-4d4c-8d4d-4b80b02bfd2a___3e7fd381-0ae5-4421-8a70-279ee0ec1c61_01640f5edbbfb564a9ab6486b31d1554_large.jpg.jpg 100,100,152,124,1 22,1,211,166,0
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/1.jpg
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/fb939bb1-5257-4879-bafb-539472ffb73d___Maruti-Suzuki-Brezza-Number-Plates-Design.jpg.jpeg.jpg 185,205,342,260,1 3,19,484,448,0
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/1.jpg
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/fac9f4e6-c4b9-4872-86da-79d58ea2adc5___5273.jpg.jpeg.jpg 95,219,177,233,1 28,80,285,287,0
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/1.jpg
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/f9e27b82-9e65-44ba-bf9a-b3ced8901937___Skoda-Superb-Exterior-deadfront-69204.jpg.jpeg.jpg 200,182,399,229,1 43,1,560,290,0
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/1.jpg
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/f94e9bcf-ec4a-418a-8685-14b71b82a039___3e7fd381-0ae5-4421-8a70-279ee0ec1c61_848126147_1_1080x720_nissan-terrano-xl-d-plus-2014-diesel-surat.jpg.jpg 125,294,254,337,1 5,30,375,400,0
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/1.jpg
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/f8a992cc-a1cc-4d68-88c1-bec1a46fc148___Honda-City-Number-Plates-Design.jpg.jpeg.jpg 191,359,386,416,1 12,0,557,464,0
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/1.jpg
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/f7ba7a93-e8d7-4253-b327-d87e3f2bb747___3e7fd381-0ae5-4421-8a70-279ee0ec1c61_2013-Nissan-Terrano-Rear.jpg.jpg 632,303,794,371,1 73,68,952,638,0
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/1.jpg
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/f7621229-eebc-4dff-aef8-e79fac571be4___Skoda-Octavia-5.jpg.jpeg.jpg 185,206,248,231,1 135,52,531,282,0
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/1.jpg
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/f685e6cf-3a12-42ac-94d7-28cdf129b266___maxresdefault1.jpg.jpeg.jpg 54,68,343,419,1
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/-1.jpg
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/f5bbb8da-dddd-47ae-a46c-15492f9cf752___3e7fd381-0ae5-4421-8a70-279ee0ec1c61_10187746544_0c0822790e.jpg.jpg 103,180,170,200,1 34,59,239,263,0
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/1.jpg
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/f59d42f8-dc55-4b60-bb91-c2db3644f2ff___841309873_1_1080x720_mahindra-scorpio-vlx-airbags-bs-iii-2012-diesel-.jpg.jpeg.jpg 390,389,592,447,1 153,17,820,675,0
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/1.jpg
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/f3d775e6-d7b3-4af0-91bd-8550b3bc177f___bike-ind-number-plates-color-black-250x250.jpg.jpeg.jpg 23,57,216,155,1
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/-1.jpg
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/f265077a-611f-4a18-abe5-46518b1756e6___1232700-take-look-number-plate-uploadfromtaptalk1398055489406.jpg.jpeg.jpg 345,357,517,446,1 124,78,1000,668,0
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/1.jpg
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/f2169fa5-fd71-4ba9-a2dc-e612784ec853___number2Bplate2Bdesigns2Bindia.jpg.jpeg.jpg 21,58,320,148,1
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/-1.jpg
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/f20708c6-14cd-46ff-b8f1-6faef5fd8d2d___3e7fd381-0ae5-4421-8a70-279ee0ec1c61_Nissan-Terrano-20346.jpg.jpg 151,222,415,306,1 20,3,576,352,0
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/1.jpg
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/f16274c4-0d3d-4c85-9dcc-5ac71734b281___speedex-number-plates-nandanam-chennai-car-number-plate-dealers-1ofla74.jpg.jpeg.jpg 174,212,569,330,1
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/-1.jpg
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/ef2dc97f-bc6d-49a3-9ddb-03f54f3a20e7___Skoda-Rapid-new-Exterior-84398.jpg.jpeg.jpg 209,272,341,316,1 59,52,489,398,0
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/1.jpg
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/ee7cffcb-cedd-444f-9d3b-42372ba30073___pimlico-plumbers-van-with-personalised-number-plate-london-B8MJAT.jpg.jpeg.jpg 391,667,805,780,1 6,5,1288,821,0
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/1.jpg
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/ed9cd3b2-76a2-4cc8-9e4e-76d50ad1ff68___maruti-suzuki-wagon-r-hood-open-view.jpg.jpeg.jpg 121,263,228,295,1 35,82,350,410,0
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/1.jpg
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/ed6ee171-691a-4563-a79d-4f47d8ce9f85___Maruti-Suzuki-SCross-Exterior-80675.jpg.jpeg.jpg 120,265,405,336,1 1,3,599,337,0
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/1.jpg
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/ec4bde57-11dd-4d59-96ae-b5d3b28afda5___Maruti-Suzuki-Celerio-Back-Number-Plates-Design.jpg.jpeg.jpg 110,185,426,265,1
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/-1.jpg
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/ea7090ee-ffa2-4812-9e7e-2098b1a538e6___23-500x500.jpg.jpeg.jpg 0,7,500,242,0
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/1.jpg
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/e82fc408-a209-4221-9f6d-742b4b9d4c70___3e7fd381-0ae5-4421-8a70-279ee0ec1c61_848803268_2_1080x720_nissan-terrano-xl-d-plus-2014-diesel-upload-photos.jpg.jpg 307,308,456,351,1 70,3,540,439,0
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/1.jpg
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/e7a86597-7251-4e9b-9469-cd873fe6736f___Honda-Jazz-Number-Plates-Designs.jpg.jpeg.jpg 214,137,388,241,1
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/-1.jpg
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/e77e5db3-2bc6-4223-a258-2334256be65e___new_205356-maruti-swift-torque-blue-vdi-ddis-glistening-rockstar-enters-home-img_7531.jpg.jpeg.jpg 122,125,370,202,1
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/-1.jpg
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/e750b959-1b5a-41bf-bf64-d8099089e909___3e7fd381-0ae5-4421-8a70-279ee0ec1c61_Nissan-Terrano-Duster-launch-dare-pics-price-interiors-images-1.jpg.jpg 298,355,567,433,1 46,48,891,755,0
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/1.jpg
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/e719f39b-e8dd-4fe0-9a41-71123932a486___226676869_4_1000x700_maruti-suzuki-wagon-r-duo-petrol-120000-kms-2007-year-cars_rev001.jpg.jpeg.jpg 131,215,281,253,1 4,3,399,421,0
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/1.jpg
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/e706cec0-783a-42bc-b934-64788481cd92___4-Innova-After-2.jpg.jpeg.jpg 176,177,321,215,1 5,0,489,372,0
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/1.jpg
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/e69f33fd-730a-46f3-9d99-edde32847161___995920d1349421647-cappuccino-beige-czech-tank-here-my-skoda-laura-2-0-elegance-mt-20121005_121433.jpg.jpeg.jpg 862,797,1559,981,1 268,0,2247,1249,0
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/1.jpg
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/e663fa35-ce3c-401d-8451-30edd236b3e4___maxresdefault2.jpg.jpeg.jpg 343,254,753,459,1
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/-1.jpg
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/e607d2c2-1c87-4188-be32-a96942816632___31-250x250.jpg.jpeg.jpg 17,27,250,158,1
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/-1.jpg
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/e54fb93b-020f-4c55-b4db-86e17ba9b9e0___2014-VW-Polo-facelift-rear-spotted-testing-in-Pune-India.jpg.jpeg.jpg 131,202,206,229,1 61,94,291,279,0
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/1.jpg
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/e53076d3-c3b7-47b8-8c63-30a08b8ad983___40213__Maruti_Suzuki_Swift--016.JPG.jpeg.jpg 159,257,331,300,1 0,0,500,349,0
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/1.jpg
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/e4907f73-1fbc-412c-a766-9c81bb31449c___2016-Chevrolet-TrailBlazer-India-Test-Drive-Review-e1442832290349.jpg.jpeg.jpg 61,295,180,337,1 1,17,469,435,0
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/1.jpg
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/e3f5fe39-d157-49fa-a0c9-b96ca1234a64___bike-scooter-number-plate-frame-rear-500x500.jpg.jpeg.jpg 117,82,357,199,1
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/-1.jpg
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/e354039f-d73c-4f12-9df5-f0129345fa79___scorpio.JPG.jpeg.jpg 150,188,253,220,1 43,26,357,300,0
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/1.jpg
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/e29b6eea-504a-4da2-8503-5bd3443f3bd8___maruti-suzuki-wagon-r-front-left-rim.jpg.jpeg.jpg 117,104,191,133,1 13,1,277,197,0
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/1.jpg
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/e204c50d-b861-4f68-827f-575351d150b4___Maruti-Baleno-RS-4.jpg.jpeg.jpg 22,206,145,247,1 3,2,505,342,0
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/1.jpg
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/e1d7921f-5e58-46c7-b4f9-9fd4585508f1___IMG_9072.jpg.jpeg.jpg 446,261,636,347,1 194,5,640,555,0
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/1.jpg
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/dfedf2ad-6596-48d4-a7f6-171e55c8f637___1160575d1383218860-high-security-registration-plates-hsrp-india-wp_20131030_16_01_22_pro.jpg.jpeg.jpg 666,354,953,576,1
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/-1.jpg
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/dfebb432-82cd-4154-b919-0d8be2c0d85a___5e4697c6f639f3f341b2feb170d72795af3fc998.jpg.jpeg.jpg 140,193,320,252,1 2,1,499,378,0
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/1.jpg
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/dfafd4ef-5592-41d9-9cbb-fa6a4e03831e___IMG_9082.jpg.jpeg.jpg 202,79,588,198,1
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/-1.jpg
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/df2f7a76-d701-468f-b54a-c5d63d13b349___CM-Akhilesh-Number-Plate.jpg.jpeg.jpg 296,193,574,271,1
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/-1.jpg
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/dd58e02d-51a5-4bfd-87af-ff51c576086e___2014-mahindra-scorpio-suv-10.jpg.jpeg.jpg 632,468,851,552,1 220,113,1018,772,0
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/1.jpg
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/dc8bb609-7086-431b-9c8b-9520975dabd2___822716205_6_1080x720_maruti-suzuki-ciaz-make-year-2014-petrol-.jpg.jpeg.jpg 207,133,338,174,1 70,1,435,270,0
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/1.jpg
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/db4f467d-2d9e-4567-ab68-fce4a8689562___maxresdefault7.jpg.jpeg.jpg 1018,609,1281,679,1 340,140,1475,905,0
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/1.jpg
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/d9023f53-f90d-4b98-bd52-30796777ddcf___Maruti-Suzuki-Baleno-hatchback-56545.jpg.jpeg.jpg 224,160,309,182,1 1,3,381,259,0
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/1.jpg
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/d88b7b9c-a4f4-4af6-af3d-b3017e114e0d___146292-maruti-suzuki-wagon-r-stingray-vxi-ownership-review-dsc_01691.jpg.jpeg.jpg 165,204,414,269,1 4,3,599,361,0
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/1.jpg
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/d86f0bbc-91f6-4af9-9956-c305f98e515b___Number_plate_650.jpg.jpeg.jpg 116,165,318,241,1
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/-1.jpg
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/d779f6f0-5731-48ed-bd43-836a3f7f2013___product-500x5000.jpeg.jpg 225,122,427,177,1
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/-1.jpg
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/d5ddd1e6-56ca-4991-994e-cb78fe836a47___3e7fd381-0ae5-4421-8a70-279ee0ec1c61_2013-Nissan-Terrano-Review.jpg.jpg 454,342,599,391,1 297,51,773,548,0
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/1.jpg
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/d4bec046-caac-4e59-bd05-44de2232d83b___2017-Skoda-Octavia-Front.jpg.jpeg.jpg 213,149,350,194,1
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/-1.jpg
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/d48a0a29-8f29-4ced-b395-4c959aec7722___kejriwal.jpg.jpeg.jpg 6,11,493,131,1
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/-1.jpg
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/d44f95e3-47df-415f-9359-cd2f1f27ad86___eecitmw.gif.jpg
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/-1.jpg
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/d3d2cbaa-f24a-4cb7-a236-53fa514816b4___new_2017-Skoda-Rapid-Diesel-DSG-Review-6.jpg.jpeg.jpg 244,111,376,149,1 1,1,492,336,0
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/1.jpg
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/d16041c1-831d-4cc9-8869-68be8b6e12d7___slider-new-2.jpg.jpeg.jpg 807,235,1037,302,1 147,0,1219,453,0
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/1.jpg
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/d1301d79-7b27-479a-8c83-ed13fb848344___Skoda-1-insights-696x388.jpg.jpeg.jpg 230,134,476,194,1 6,0,696,329,0
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/1.jpg
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/d1115e64-987f-4a72-b9bb-853f67ca37b6___new_2014-Volkswagen-Polo-Review.jpg.jpeg.jpg 160,256,329,297,1 2,4,500,354,0
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/1.jpg
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/fe3c95e4-7bd4-40f5-98a9-9fc635957d9c___3e7fd381-0ae5-4421-8a70-279ee0ec1c61_Baleno-Number-Plates-Design.jpg.jpg 313,421,671,532,1 3,1,959,663,0
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/1.jpg
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/fe226788-616e-4c5c-8b3c-99dc7e7265cd___images5-500x500.jpg.jpeg.jpg 17,160,423,259,1
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/1.jpg
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/fda5760a-c6ff-43a9-8ce7-61e808f109ea___3e7fd381-0ae5-4421-8a70-279ee0ec1c61_nissan_terrano_ii_nissan_terrano_ii_2_7_tdi_se_4x4_3330085523722771900.jpg.jpg 471,290,550,355,1 22,18,587,443,0
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/1.jpg
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/fd0140cc-e887-43b8-a439-24877ea77670___Maruti-Suzuki-Baleno-Number-Plates-Design.jpg.jpeg.jpg 144,135,383,187,1 3,2,500,274,0
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/1.jpg
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/fcabfaf7-160a-44bc-a543-9faee4c1c4cd___Honda-Jazz-Front-Number-Plates-Designs.jpg.jpeg.jpg 63,83,577,190,1
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/1.jpg
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/fc1f58f0-2f54-4545-8915-2936d08dcce1___new_Skoda_Laura_DSG_Long_Term_Review-125.jpg.jpeg.jpg 180,231,354,278,1 25,30,492,358,0
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/1.jpg
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/fbc107b7-13d8-4a2d-b8be-7c96bd7d609c___new_9214a754343030395508e104d7948167_large.jpg.jpeg.jpg 106,349,280,388,1 3,3,429,450,0
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/1.jpg
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/fbb2b3ed-4db1-4d4c-8d4d-4b80b02bfd2a___3e7fd381-0ae5-4421-8a70-279ee0ec1c61_01640f5edbbfb564a9ab6486b31d1554_large.jpg.jpg 100,100,152,124,1 22,1,211,166,0
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/1.jpg
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/fb939bb1-5257-4879-bafb-539472ffb73d___Maruti-Suzuki-Brezza-Number-Plates-Design.jpg.jpeg.jpg 185,205,342,260,1 3,19,484,448,0
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/1.jpg
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/fac9f4e6-c4b9-4872-86da-79d58ea2adc5___5273.jpg.jpeg.jpg 95,219,177,233,1 28,80,285,287,0
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/1.jpg
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/f9e27b82-9e65-44ba-bf9a-b3ced8901937___Skoda-Superb-Exterior-deadfront-69204.jpg.jpeg.jpg 200,182,399,229,1 43,1,560,290,0
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/1.jpg
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/f94e9bcf-ec4a-418a-8685-14b71b82a039___3e7fd381-0ae5-4421-8a70-279ee0ec1c61_848126147_1_1080x720_nissan-terrano-xl-d-plus-2014-diesel-surat.jpg.jpg 125,294,254,337,1 5,30,375,400,0
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/1.jpg
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/f8a992cc-a1cc-4d68-88c1-bec1a46fc148___Honda-City-Number-Plates-Design.jpg.jpeg.jpg 191,359,386,416,1 12,0,557,464,0
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/1.jpg
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/f7ba7a93-e8d7-4253-b327-d87e3f2bb747___3e7fd381-0ae5-4421-8a70-279ee0ec1c61_2013-Nissan-Terrano-Rear.jpg.jpg 632,303,794,371,1 73,68,952,638,0
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/1.jpg
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/f7621229-eebc-4dff-aef8-e79fac571be4___Skoda-Octavia-5.jpg.jpeg.jpg 185,206,248,231,1 135,52,531,282,0
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/1.jpg
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/f685e6cf-3a12-42ac-94d7-28cdf129b266___maxresdefault1.jpg.jpeg.jpg 54,68,343,419,1
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/1.jpg
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/f5bbb8da-dddd-47ae-a46c-15492f9cf752___3e7fd381-0ae5-4421-8a70-279ee0ec1c61_10187746544_0c0822790e.jpg.jpg 103,180,170,200,1 34,59,239,263,0
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/1.jpg
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/f59d42f8-dc55-4b60-bb91-c2db3644f2ff___841309873_1_1080x720_mahindra-scorpio-vlx-airbags-bs-iii-2012-diesel-.jpg.jpeg.jpg 390,389,592,447,1 153,17,820,675,0
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/1.jpg
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/f3d775e6-d7b3-4af0-91bd-8550b3bc177f___bike-ind-number-plates-color-black-250x250.jpg.jpeg.jpg 23,57,216,155,1
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/1.jpg
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/f265077a-611f-4a18-abe5-46518b1756e6___1232700-take-look-number-plate-uploadfromtaptalk1398055489406.jpg.jpeg.jpg 345,357,517,446,1 124,78,1000,668,0
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/1.jpg
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/f2169fa5-fd71-4ba9-a2dc-e612784ec853___number2Bplate2Bdesigns2Bindia.jpg.jpeg.jpg 21,58,320,148,1
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/1.jpg
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/f20708c6-14cd-46ff-b8f1-6faef5fd8d2d___3e7fd381-0ae5-4421-8a70-279ee0ec1c61_Nissan-Terrano-20346.jpg.jpg 151,222,415,306,1 20,3,576,352,0
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/1.jpg
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/f16274c4-0d3d-4c85-9dcc-5ac71734b281___speedex-number-plates-nandanam-chennai-car-number-plate-dealers-1ofla74.jpg.jpeg.jpg 174,212,569,330,1
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/1.jpg
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/ef2dc97f-bc6d-49a3-9ddb-03f54f3a20e7___Skoda-Rapid-new-Exterior-84398.jpg.jpeg.jpg 209,272,341,316,1 59,52,489,398,0
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/1.jpg
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/ee7cffcb-cedd-444f-9d3b-42372ba30073___pimlico-plumbers-van-with-personalised-number-plate-london-B8MJAT.jpg.jpeg.jpg 391,667,805,780,1 6,5,1288,821,0
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/1.jpg
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/ed9cd3b2-76a2-4cc8-9e4e-76d50ad1ff68___maruti-suzuki-wagon-r-hood-open-view.jpg.jpeg.jpg 121,263,228,295,1 35,82,350,410,0
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/1.jpg
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/ed6ee171-691a-4563-a79d-4f47d8ce9f85___Maruti-Suzuki-SCross-Exterior-80675.jpg.jpeg.jpg 120,265,405,336,1 1,3,599,337,0
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/1.jpg
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/ec4bde57-11dd-4d59-96ae-b5d3b28afda5___Maruti-Suzuki-Celerio-Back-Number-Plates-Design.jpg.jpeg.jpg 110,185,426,265,1
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/1.jpg
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/ea7090ee-ffa2-4812-9e7e-2098b1a538e6___23-500x500.jpg.jpeg.jpg 0,7,500,242,0
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/-1.jpg
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/e82fc408-a209-4221-9f6d-742b4b9d4c70___3e7fd381-0ae5-4421-8a70-279ee0ec1c61_848803268_2_1080x720_nissan-terrano-xl-d-plus-2014-diesel-upload-photos.jpg.jpg 307,308,456,351,1 70,3,540,439,0
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/1.jpg
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/e7a86597-7251-4e9b-9469-cd873fe6736f___Honda-Jazz-Number-Plates-Designs.jpg.jpeg.jpg 214,137,388,241,1
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/1.jpg
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/e77e5db3-2bc6-4223-a258-2334256be65e___new_205356-maruti-swift-torque-blue-vdi-ddis-glistening-rockstar-enters-home-img_7531.jpg.jpeg.jpg 122,125,370,202,1
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/1.jpg
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/e750b959-1b5a-41bf-bf64-d8099089e909___3e7fd381-0ae5-4421-8a70-279ee0ec1c61_Nissan-Terrano-Duster-launch-dare-pics-price-interiors-images-1.jpg.jpg 298,355,567,433,1 46,48,891,755,0
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/1.jpg
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/e719f39b-e8dd-4fe0-9a41-71123932a486___226676869_4_1000x700_maruti-suzuki-wagon-r-duo-petrol-120000-kms-2007-year-cars_rev001.jpg.jpeg.jpg 131,215,281,253,1 4,3,399,421,0
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/1.jpg
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/e706cec0-783a-42bc-b934-64788481cd92___4-Innova-After-2.jpg.jpeg.jpg 176,177,321,215,1 5,0,489,372,0
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/1.jpg
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/e69f33fd-730a-46f3-9d99-edde32847161___995920d1349421647-cappuccino-beige-czech-tank-here-my-skoda-laura-2-0-elegance-mt-20121005_121433.jpg.jpeg.jpg 862,797,1559,981,1 268,0,2247,1249,0
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/1.jpg
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/e663fa35-ce3c-401d-8451-30edd236b3e4___maxresdefault2.jpg.jpeg.jpg 343,254,753,459,1
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/1.jpg
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/e607d2c2-1c87-4188-be32-a96942816632___31-250x250.jpg.jpeg.jpg 17,27,250,158,1
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/1.jpg
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/e54fb93b-020f-4c55-b4db-86e17ba9b9e0___2014-VW-Polo-facelift-rear-spotted-testing-in-Pune-India.jpg.jpeg.jpg 131,202,206,229,1 61,94,291,279,0
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/1.jpg
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/e53076d3-c3b7-47b8-8c63-30a08b8ad983___40213__Maruti_Suzuki_Swift--016.JPG.jpeg.jpg 159,257,331,300,1 0,0,500,349,0
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/1.jpg
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/e4907f73-1fbc-412c-a766-9c81bb31449c___2016-Chevrolet-TrailBlazer-India-Test-Drive-Review-e1442832290349.jpg.jpeg.jpg 61,295,180,337,1 1,17,469,435,0
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/1.jpg
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/e3f5fe39-d157-49fa-a0c9-b96ca1234a64___bike-scooter-number-plate-frame-rear-500x500.jpg.jpeg.jpg 117,82,357,199,1
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/1.jpg
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/e354039f-d73c-4f12-9df5-f0129345fa79___scorpio.JPG.jpeg.jpg 150,188,253,220,1 43,26,357,300,0
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/1.jpg
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/e29b6eea-504a-4da2-8503-5bd3443f3bd8___maruti-suzuki-wagon-r-front-left-rim.jpg.jpeg.jpg 117,104,191,133,1 13,1,277,197,0
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/1.jpg
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/e204c50d-b861-4f68-827f-575351d150b4___Maruti-Baleno-RS-4.jpg.jpeg.jpg 22,206,145,247,1 3,2,505,342,0
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/1.jpg
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/e1d7921f-5e58-46c7-b4f9-9fd4585508f1___IMG_9072.jpg.jpeg.jpg 446,261,636,347,1 194,5,640,555,0
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/1.jpg
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/dfedf2ad-6596-48d4-a7f6-171e55c8f637___1160575d1383218860-high-security-registration-plates-hsrp-india-wp_20131030_16_01_22_pro.jpg.jpeg.jpg 666,354,953,576,1
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/1.jpg
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/dfebb432-82cd-4154-b919-0d8be2c0d85a___5e4697c6f639f3f341b2feb170d72795af3fc998.jpg.jpeg.jpg 140,193,320,252,1 2,1,499,378,0
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/1.jpg
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/dfafd4ef-5592-41d9-9cbb-fa6a4e03831e___IMG_9082.jpg.jpeg.jpg 202,79,588,198,1
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/1.jpg
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/df2f7a76-d701-468f-b54a-c5d63d13b349___CM-Akhilesh-Number-Plate.jpg.jpeg.jpg 296,193,574,271,1
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/1.jpg
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/dd58e02d-51a5-4bfd-87af-ff51c576086e___2014-mahindra-scorpio-suv-10.jpg.jpeg.jpg 632,468,851,552,1 220,113,1018,772,0
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/1.jpg
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/dc8bb609-7086-431b-9c8b-9520975dabd2___822716205_6_1080x720_maruti-suzuki-ciaz-make-year-2014-petrol-.jpg.jpeg.jpg 207,133,338,174,1 70,1,435,270,0
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/1.jpg
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/db4f467d-2d9e-4567-ab68-fce4a8689562___maxresdefault7.jpg.jpeg.jpg 1018,609,1281,679,1 340,140,1475,905,0
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/1.jpg
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/d9023f53-f90d-4b98-bd52-30796777ddcf___Maruti-Suzuki-Baleno-hatchback-56545.jpg.jpeg.jpg 224,160,309,182,1 1,3,381,259,0
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/1.jpg
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/d88b7b9c-a4f4-4af6-af3d-b3017e114e0d___146292-maruti-suzuki-wagon-r-stingray-vxi-ownership-review-dsc_01691.jpg.jpeg.jpg 165,204,414,269,1 4,3,599,361,0
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/1.jpg
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/d86f0bbc-91f6-4af9-9956-c305f98e515b___Number_plate_650.jpg.jpeg.jpg 116,165,318,241,1
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/1.jpg
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/d779f6f0-5731-48ed-bd43-836a3f7f2013___product-500x5000.jpeg.jpg 225,122,427,177,1
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/1.jpg
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/d5ddd1e6-56ca-4991-994e-cb78fe836a47___3e7fd381-0ae5-4421-8a70-279ee0ec1c61_2013-Nissan-Terrano-Review.jpg.jpg 454,342,599,391,1 297,51,773,548,0
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/1.jpg
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/d4bec046-caac-4e59-bd05-44de2232d83b___2017-Skoda-Octavia-Front.jpg.jpeg.jpg 213,149,350,194,1
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/1.jpg
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/d48a0a29-8f29-4ced-b395-4c959aec7722___kejriwal.jpg.jpeg.jpg 6,11,493,131,1
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/1.jpg
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/d44f95e3-47df-415f-9359-cd2f1f27ad86___eecitmw.gif.jpg
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/1.jpg
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/d3d2cbaa-f24a-4cb7-a236-53fa514816b4___new_2017-Skoda-Rapid-Diesel-DSG-Review-6.jpg.jpeg.jpg 244,111,376,149,1 1,1,492,336,0
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/1.jpg
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/d16041c1-831d-4cc9-8869-68be8b6e12d7___slider-new-2.jpg.jpeg.jpg 807,235,1037,302,1 147,0,1219,453,0
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/1.jpg
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/d1301d79-7b27-479a-8c83-ed13fb848344___Skoda-1-insights-696x388.jpg.jpeg.jpg 230,134,476,194,1 6,0,696,329,0
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/1.jpg
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/d1115e64-987f-4a72-b9bb-853f67ca37b6___new_2014-Volkswagen-Polo-Review.jpg.jpeg.jpg 160,256,329,297,1 2,4,500,354,0
+/Users/waqas/Desktop/keras-yolo3-master/data/JPEGImages/1.jpg

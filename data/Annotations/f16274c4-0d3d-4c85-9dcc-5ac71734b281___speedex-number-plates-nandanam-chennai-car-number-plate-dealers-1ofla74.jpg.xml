@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>f16274c4-0d3d-4c85-9dcc-5ac71734b281___speedex-number-plates-nandanam-chennai-car-number-plate-dealers-1ofla74.jpg.jpeg</filename>
+    <path>vehicle-PascalVOC-export/Annotations/f16274c4-0d3d-4c85-9dcc-5ac71734b281___speedex-number-plates-nandanam-chennai-car-number-plate-dealers-1ofla74.jpg.jpeg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>678</width>
+        <height>475</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>174.7639751552795</xmin>
+        <ymin>212.44321735782145</ymin>
+        <xmax>569.4919426011743</xmax>
+        <ymax>330.8774990380427</ymax>
+    </bndbox>
+</object>
+</annotation>

@@ -1,0 +1,37 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>8906af57-0d29-417d-ac46-408425527b57___VW-Vento-TDI-CNG-Spy-Pic-2.jpg.jpeg</filename>
+    <path>vehicle-PascalVOC-export/Annotations/8906af57-0d29-417d-ac46-408425527b57___VW-Vento-TDI-CNG-Spy-Pic-2.jpg.jpeg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>600</width>
+        <height>430</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>248.1756109940378</xmin>
+        <ymin>239.0508511645646</ymin>
+        <xmax>372.54807321648843</xmax>
+        <ymax>297.35595444501456</ymax>
+    </bndbox>
+</object><object>
+    <name>car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>3.317303985719256</xmin>
+        <ymin>2.4293785310734464</ymin>
+        <xmax>600</xmax>
+        <ymax>425.1412429378531</ymax>
+    </bndbox>
+</object>
+</annotation>

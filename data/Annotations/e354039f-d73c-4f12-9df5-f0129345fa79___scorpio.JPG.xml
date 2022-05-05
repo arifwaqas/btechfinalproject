@@ -1,0 +1,37 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>e354039f-d73c-4f12-9df5-f0129345fa79___scorpio.JPG.jpeg</filename>
+    <path>vehicle-PascalVOC-export/Annotations/e354039f-d73c-4f12-9df5-f0129345fa79___scorpio.JPG.jpeg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>400</width>
+        <height>300</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>150</xmin>
+        <ymin>188.8135748394465</ymin>
+        <xmax>253.72880838685114</xmax>
+        <ymax>220.33898305084745</ymax>
+    </bndbox>
+</object><object>
+    <name>car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>43.8983076709812</xmin>
+        <ymin>26.10169750148967</ymin>
+        <xmax>357.4576167737023</xmax>
+        <ymax>300</ymax>
+    </bndbox>
+</object>
+</annotation>

@@ -1,0 +1,37 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>f9e27b82-9e65-44ba-bf9a-b3ced8901937___Skoda-Superb-Exterior-deadfront-69204.jpg.jpeg</filename>
+    <path>vehicle-PascalVOC-export/Annotations/f9e27b82-9e65-44ba-bf9a-b3ced8901937___Skoda-Superb-Exterior-deadfront-69204.jpg.jpeg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>600</width>
+        <height>337</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>200.37269355347436</xmin>
+        <ymin>182.35772032227464</ymin>
+        <xmax>399.1304575286296</xmax>
+        <ymax>229.6123328684001</ymax>
+    </bndbox>
+</object><object>
+    <name>car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>43.35404864009122</xmin>
+        <ymin>1.7953624936487402</ymin>
+        <xmax>560.6211028484083</xmax>
+        <ymax>290.29722648705064</ymax>
+    </bndbox>
+</object>
+</annotation>

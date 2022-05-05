@@ -1,0 +1,37 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>f8a992cc-a1cc-4d68-88c1-bec1a46fc148___Honda-City-Number-Plates-Design.jpg.jpeg</filename>
+    <path>vehicle-PascalVOC-export/Annotations/f8a992cc-a1cc-4d68-88c1-bec1a46fc148___Honda-City-Number-Plates-Design.jpg.jpeg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>557</width>
+        <height>520</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>191.34933588435592</xmin>
+        <ymin>359.00564075189794</ymin>
+        <xmax>386.51976649301974</xmax>
+        <ymax>416.5875795870851</ymax>
+    </bndbox>
+</object><object>
+    <name>car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>12.05118285005514</xmin>
+        <ymin>0.5875728628729696</ymin>
+        <xmax>557</xmax>
+        <ymax>464.7683526163047</ymax>
+    </bndbox>
+</object>
+</annotation>

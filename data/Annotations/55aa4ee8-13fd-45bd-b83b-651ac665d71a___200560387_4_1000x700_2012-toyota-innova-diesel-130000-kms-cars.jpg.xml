@@ -1,0 +1,37 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>55aa4ee8-13fd-45bd-b83b-651ac665d71a___200560387_4_1000x700_2012-toyota-innova-diesel-130000-kms-cars.jpg.jpeg</filename>
+    <path>vehicle-PascalVOC-export/Annotations/55aa4ee8-13fd-45bd-b83b-651ac665d71a___200560387_4_1000x700_2012-toyota-innova-diesel-130000-kms-cars.jpg.jpeg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>518</width>
+        <height>458</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>161.0827987994743</xmin>
+        <ymin>235.9864525229244</ymin>
+        <xmax>327.153202890308</xmax>
+        <ymax>286.70283275539595</ymax>
+    </bndbox>
+</object><object>
+    <name>car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>5.359441140468945</xmin>
+        <ymin>1.0350272615077132</ymin>
+        <xmax>510.29632141646675</xmax>
+        <ymax>453.85991069556627</ymax>
+    </bndbox>
+</object>
+</annotation>

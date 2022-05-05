@@ -1,0 +1,37 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>a2d49f53-4121-4627-b5d9-069f8b2f8490___840256171_1_1080x720_maruti-suzuki-wagon-r-vxi-with-abs-minor-2014-petrol-erode.jpg.jpeg</filename>
+    <path>vehicle-PascalVOC-export/Annotations/a2d49f53-4121-4627-b5d9-069f8b2f8490___840256171_1_1080x720_maruti-suzuki-wagon-r-vxi-with-abs-minor-2014-petrol-erode.jpg.jpeg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>371</width>
+        <height>396</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>110.999237244665</xmin>
+        <ymin>221.4915254237288</ymin>
+        <xmax>246.19319040059685</xmax>
+        <ymax>259.52542372881356</ymax>
+    </bndbox>
+</object><object>
+    <name>car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1.322012508616728</xmin>
+        <ymin>8.054238141593286</ymin>
+        <xmax>368.4050029219546</xmax>
+        <ymax>395.99999999999994</ymax>
+    </bndbox>
+</object>
+</annotation>

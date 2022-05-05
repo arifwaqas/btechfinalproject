@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>4e56220b-186d-46d2-8df9-bcde299c8732___motorcycle-number-plates-2583.jpg.jpeg</filename>
+    <path>vehicle-PascalVOC-export/Annotations/4e56220b-186d-46d2-8df9-bcde299c8732___motorcycle-number-plates-2583.jpg.jpeg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>570</width>
+        <height>444</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>254.31313794831632</xmin>
+        <ymin>216.2305199574616</ymin>
+        <xmax>327.5540543861515</xmax>
+        <ymax>265.39661782474843</ymax>
+    </bndbox>
+</object>
+</annotation>

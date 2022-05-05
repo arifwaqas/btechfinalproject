@@ -1,0 +1,37 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>7f768bfc-4c86-4fff-932d-c9871a82dce5___1431955d1446017445-number-plates-merchandise-canvas-ink-gurgaon-edit-closed-thumb_img_4422_1024.jpg.jpeg</filename>
+    <path>vehicle-PascalVOC-export/Annotations/7f768bfc-4c86-4fff-932d-c9871a82dce5___1431955d1446017445-number-plates-merchandise-canvas-ink-gurgaon-edit-closed-thumb_img_4422_1024.jpg.jpeg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>768</width>
+        <height>1024</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>253.10734463276836</xmin>
+        <ymin>506.79321151129943</ymin>
+        <xmax>494.93335098870057</xmax>
+        <ymax>590.1016949152543</ymax>
+    </bndbox>
+</object><object>
+    <name>car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>39.05084745762712</xmin>
+        <ymin>69.42372881355932</ymin>
+        <xmax>707.8328036723163</xmax>
+        <ymax>691.9231991525425</ymax>
+    </bndbox>
+</object>
+</annotation>

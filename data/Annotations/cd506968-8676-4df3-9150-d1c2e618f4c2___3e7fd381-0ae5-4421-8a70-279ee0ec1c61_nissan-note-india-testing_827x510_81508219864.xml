@@ -1,0 +1,37 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>cd506968-8676-4df3-9150-d1c2e618f4c2___3e7fd381-0ae5-4421-8a70-279ee0ec1c61_nissan-note-india-testing_827x510_81508219864.jpg</filename>
+    <path>vehicle-PascalVOC-export/Annotations/cd506968-8676-4df3-9150-d1c2e618f4c2___3e7fd381-0ae5-4421-8a70-279ee0ec1c61_nissan-note-india-testing_827x510_81508219864.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>827</width>
+        <height>510</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>342.6142961648187</xmin>
+        <ymin>273.0232932583598</ymin>
+        <xmax>578.2151347727016</xmax>
+        <ymax>321.6273096583834</ymax>
+    </bndbox>
+</object><object>
+    <name>car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>100.84949807745576</xmin>
+        <ymin>3.9897283771694108</ymin>
+        <xmax>797.3786958493062</xmax>
+        <ymax>510</ymax>
+    </bndbox>
+</object>
+</annotation>

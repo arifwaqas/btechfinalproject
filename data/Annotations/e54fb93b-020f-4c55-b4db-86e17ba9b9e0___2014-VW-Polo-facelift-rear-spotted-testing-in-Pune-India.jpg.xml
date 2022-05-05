@@ -1,0 +1,37 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>e54fb93b-020f-4c55-b4db-86e17ba9b9e0___2014-VW-Polo-facelift-rear-spotted-testing-in-Pune-India.jpg.jpeg</filename>
+    <path>vehicle-PascalVOC-export/Annotations/e54fb93b-020f-4c55-b4db-86e17ba9b9e0___2014-VW-Polo-facelift-rear-spotted-testing-in-Pune-India.jpg.jpeg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>341</width>
+        <height>368</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>131.22133827209473</xmin>
+        <ymin>202.50395797470867</ymin>
+        <xmax>206.07499680868008</xmax>
+        <ymax>229.94803528866524</ymax>
+    </bndbox>
+</object><object>
+    <name>car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>61.773758260215196</xmin>
+        <ymin>94.80677648856815</ymin>
+        <xmax>291.7408758489097</xmax>
+        <ymax>279.43052750926904</ymax>
+    </bndbox>
+</object>
+</annotation>

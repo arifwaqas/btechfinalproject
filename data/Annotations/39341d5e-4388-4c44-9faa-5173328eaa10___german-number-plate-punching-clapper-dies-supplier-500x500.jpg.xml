@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>39341d5e-4388-4c44-9faa-5173328eaa10___german-number-plate-punching-clapper-dies-supplier-500x500.jpg.jpeg</filename>
+    <path>vehicle-PascalVOC-export/Annotations/39341d5e-4388-4c44-9faa-5173328eaa10___german-number-plate-punching-clapper-dies-supplier-500x500.jpg.jpeg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>500</width>
+        <height>375</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>12.658895072290454</xmin>
+        <ymin>49.152543989278506</ymin>
+        <xmax>500.00000000000006</xmax>
+        <ymax>344.91526070287676</ymax>
+    </bndbox>
+</object>
+</annotation>

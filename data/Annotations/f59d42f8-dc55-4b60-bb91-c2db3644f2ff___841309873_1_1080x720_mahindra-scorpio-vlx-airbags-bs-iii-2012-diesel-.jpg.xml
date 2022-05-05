@@ -1,0 +1,37 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>f59d42f8-dc55-4b60-bb91-c2db3644f2ff___841309873_1_1080x720_mahindra-scorpio-vlx-airbags-bs-iii-2012-diesel-.jpg.jpeg</filename>
+    <path>vehicle-PascalVOC-export/Annotations/f59d42f8-dc55-4b60-bb91-c2db3644f2ff___841309873_1_1080x720_mahindra-scorpio-vlx-airbags-bs-iii-2012-diesel-.jpg.jpeg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>960</width>
+        <height>720</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>390.10173215704447</xmin>
+        <ymin>389.69492766816734</ymin>
+        <xmax>592.6779536877648</xmax>
+        <ymax>447.45762711864404</ymax>
+    </bndbox>
+</object><object>
+    <name>car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>153.35595082428495</xmin>
+        <ymin>17.084748866194385</ymin>
+        <xmax>820.4746259269067</xmax>
+        <ymax>675.2542372881355</ymax>
+    </bndbox>
+</object>
+</annotation>

@@ -1,0 +1,37 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>51d58875-0bdc-4488-84d9-8b7ad5883863___new_Maruti-Suzuki-Ignis-Rear-view-94486.jpg.jpeg</filename>
+    <path>vehicle-PascalVOC-export/Annotations/51d58875-0bdc-4488-84d9-8b7ad5883863___new_Maruti-Suzuki-Ignis-Rear-view-94486.jpg.jpeg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>400</width>
+        <height>224</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>94.09559512652297</xmin>
+        <ymin>148.3204047671927</ymin>
+        <xmax>214.65793312880743</xmax>
+        <ymax>188.17593230690844</ymax>
+    </bndbox>
+</object><object>
+    <name>car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>11.321460899059867</xmin>
+        <ymin>0.8849509759092808</ymin>
+        <xmax>400</xmax>
+        <ymax>223.99999999999997</ymax>
+    </bndbox>
+</object>
+</annotation>

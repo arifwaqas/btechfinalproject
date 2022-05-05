@@ -1,0 +1,37 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>b9467810-4022-4cf5-87e7-fed0d63c8e2f___new_1658240d1500548920-close-look-2017-skoda-octavia-facelift-hands-free-parking-front-bumper.jpg.jpeg</filename>
+    <path>vehicle-PascalVOC-export/Annotations/b9467810-4022-4cf5-87e7-fed0d63c8e2f___new_1658240d1500548920-close-look-2017-skoda-octavia-facelift-hands-free-parking-front-bumper.jpg.jpeg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>500</width>
+        <height>332</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>164.06405795443882</xmin>
+        <ymin>128.63122553990797</ymin>
+        <xmax>334.6346529635104</xmax>
+        <ymax>174.29999465136865</ymax>
+    </bndbox>
+</object><object>
+    <name>car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>7.107113216732358</xmin>
+        <ymin>3.642983368978601</ymin>
+        <xmax>499.19921141844975</xmax>
+        <ymax>304.8966855700739</ymax>
+    </bndbox>
+</object>
+</annotation>

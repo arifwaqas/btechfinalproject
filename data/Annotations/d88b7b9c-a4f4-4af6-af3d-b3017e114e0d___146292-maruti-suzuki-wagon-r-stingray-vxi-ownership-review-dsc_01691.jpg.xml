@@ -1,0 +1,37 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>d88b7b9c-a4f4-4af6-af3d-b3017e114e0d___146292-maruti-suzuki-wagon-r-stingray-vxi-ownership-review-dsc_01691.jpg.jpeg</filename>
+    <path>vehicle-PascalVOC-export/Annotations/d88b7b9c-a4f4-4af6-af3d-b3017e114e0d___146292-maruti-suzuki-wagon-r-stingray-vxi-ownership-review-dsc_01691.jpg.jpeg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>600</width>
+        <height>361</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>165.5900848578222</xmin>
+        <ymin>204.82253574751496</ymin>
+        <xmax>414.03728982676625</xmax>
+        <ymax>269.3311457420952</ymax>
+    </bndbox>
+</object><object>
+    <name>car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>4.596269500921972</xmin>
+        <ymin>3.853463582566514</ymin>
+        <xmax>599.9999999999999</xmax>
+        <ymax>361</ymax>
+    </bndbox>
+</object>
+</annotation>

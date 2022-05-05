@@ -1,0 +1,37 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>5ac9f7b9-f7cc-4161-bbd1-7f377bb890bf___3e7fd381-0ae5-4421-8a70-279ee0ec1c61_Nissan-Terrano-John-Abraham.jpg</filename>
+    <path>vehicle-PascalVOC-export/Annotations/5ac9f7b9-f7cc-4161-bbd1-7f377bb890bf___3e7fd381-0ae5-4421-8a70-279ee0ec1c61_Nissan-Terrano-John-Abraham.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>592</width>
+        <height>397</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>252.8263445767489</xmin>
+        <ymin>308.62826227737685</ymin>
+        <xmax>400.8263445767489</xmax>
+        <ymax>344.066687201376</ymax>
+    </bndbox>
+</object><object>
+    <name>car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>81.5051119255297</xmin>
+        <ymin>3.140112138737393</ymin>
+        <xmax>550.1717785921963</xmax>
+        <ymax>397</ymax>
+    </bndbox>
+</object>
+</annotation>

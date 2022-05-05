@@ -1,0 +1,37 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>03273806-bb1e-48da-8c8b-a0133a90197a___2014-Skoda-Yeti-Test-Drive.jpg.jpeg</filename>
+    <path>vehicle-PascalVOC-export/Annotations/03273806-bb1e-48da-8c8b-a0133a90197a___2014-Skoda-Yeti-Test-Drive.jpg.jpeg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>588</width>
+        <height>476</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>183.80046587841463</xmin>
+        <ymin>289.9028330657442</ymin>
+        <xmax>374.3286205440146</xmax>
+        <ymax>340.9988782634843</ymax>
+    </bndbox>
+</object><object>
+    <name>car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>0.8073103356961528</xmin>
+        <ymin>0.5378551590914107</ymin>
+        <xmax>577.7739048309676</xmax>
+        <ymax>476</ymax>
+    </bndbox>
+</object>
+</annotation>

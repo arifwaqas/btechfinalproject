@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>4434b404-dd10-4150-b226-b76b6ef95e43___new_224489195_8_1000x700_skoda-superb-2010-.jpg.jpeg</filename>
+    <path>vehicle-PascalVOC-export/Annotations/4434b404-dd10-4150-b226-b76b6ef95e43___new_224489195_8_1000x700_skoda-superb-2010-.jpg.jpeg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>397</width>
+        <height>247</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>141.31264775427235</xmin>
+        <ymin>163.20505946515556</ymin>
+        <xmax>304.4287057892675</xmax>
+        <ymax>198.6183170180723</ymax>
+    </bndbox>
+</object>
+</annotation>

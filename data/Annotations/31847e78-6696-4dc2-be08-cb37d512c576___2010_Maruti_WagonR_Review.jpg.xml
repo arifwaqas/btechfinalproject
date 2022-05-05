@@ -1,0 +1,37 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>31847e78-6696-4dc2-be08-cb37d512c576___2010_Maruti_WagonR_Review.jpg.jpeg</filename>
+    <path>vehicle-PascalVOC-export/Annotations/31847e78-6696-4dc2-be08-cb37d512c576___2010_Maruti_WagonR_Review.jpg.jpeg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>500</width>
+        <height>409</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>20.713048498845264</xmin>
+        <ymin>254.6429308013054</ymin>
+        <xmax>174.0617818149628</xmax>
+        <ymax>334.5943573342878</ymax>
+    </bndbox>
+</object><object>
+    <name>car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>0.3897158158018187</xmin>
+        <ymin>3.2350273671123264</ymin>
+        <xmax>499.6969209807574</xmax>
+        <ymax>406.2271256958697</ymax>
+    </bndbox>
+</object>
+</annotation>

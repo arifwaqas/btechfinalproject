@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>b117ba53-d563-49c2-806b-343666616815___new_Maruti-Suzuki-recalls-75419-Baleno-cars-1961-DZire-cars-only-AGS-variant-Motown-India-Bureau-2-810.jpg.jpeg</filename>
+    <path>vehicle-PascalVOC-export/Annotations/b117ba53-d563-49c2-806b-343666616815___new_Maruti-Suzuki-recalls-75419-Baleno-cars-1961-DZire-cars-only-AGS-variant-Motown-India-Bureau-2-810.jpg.jpeg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>317</width>
+        <height>215</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>118.23244405293966</xmin>
+        <ymin>109.33526869017113</ymin>
+        <xmax>219.0124162859148</xmax>
+        <ymax>150.6863088804712</ymax>
+    </bndbox>
+</object>
+</annotation>

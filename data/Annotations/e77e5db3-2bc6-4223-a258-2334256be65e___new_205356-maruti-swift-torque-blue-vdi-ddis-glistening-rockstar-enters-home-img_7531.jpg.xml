@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>e77e5db3-2bc6-4223-a258-2334256be65e___new_205356-maruti-swift-torque-blue-vdi-ddis-glistening-rockstar-enters-home-img_7531.jpg.jpeg</filename>
+    <path>vehicle-PascalVOC-export/Annotations/e77e5db3-2bc6-4223-a258-2334256be65e___new_205356-maruti-swift-torque-blue-vdi-ddis-glistening-rockstar-enters-home-img_7531.jpg.jpeg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>450</width>
+        <height>290</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>122.32920960609957</xmin>
+        <ymin>125.91921791003065</ymin>
+        <xmax>370.5279616835695</xmax>
+        <ymax>202.0092415272998</ymax>
+    </bndbox>
+</object>
+</annotation>

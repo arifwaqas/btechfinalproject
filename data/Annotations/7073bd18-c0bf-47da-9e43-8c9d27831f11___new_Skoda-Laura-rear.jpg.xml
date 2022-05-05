@@ -1,0 +1,37 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>7073bd18-c0bf-47da-9e43-8c9d27831f11___new_Skoda-Laura-rear.jpg.jpeg</filename>
+    <path>vehicle-PascalVOC-export/Annotations/7073bd18-c0bf-47da-9e43-8c9d27831f11___new_Skoda-Laura-rear.jpg.jpeg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>500</width>
+        <height>333</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>187.12957602901943</xmin>
+        <ymin>153.89492099567997</ymin>
+        <xmax>312.81161375575095</xmax>
+        <ymax>199.04746336856132</ymax>
+    </bndbox>
+</object><object>
+    <name>car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>93.8087886835423</xmin>
+        <ymin>57.569495831505726</ymin>
+        <xmax>406.88499098999364</xmax>
+        <ymax>316.82035620737884</ymax>
+    </bndbox>
+</object>
+</annotation>

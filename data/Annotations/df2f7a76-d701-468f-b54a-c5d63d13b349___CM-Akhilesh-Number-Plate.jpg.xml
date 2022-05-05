@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>df2f7a76-d701-468f-b54a-c5d63d13b349___CM-Akhilesh-Number-Plate.jpg.jpeg</filename>
+    <path>vehicle-PascalVOC-export/Annotations/df2f7a76-d701-468f-b54a-c5d63d13b349___CM-Akhilesh-Number-Plate.jpg.jpeg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1024</width>
+        <height>576</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>296.17559523809524</xmin>
+        <ymin>193.57791997582873</ymin>
+        <xmax>574.3304218426501</xmax>
+        <ymax>271.6508222548342</ymax>
+    </bndbox>
+</object>
+</annotation>

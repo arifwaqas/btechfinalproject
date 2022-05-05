@@ -1,0 +1,37 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>319f51dc-9db2-4977-a43d-09561cdd54ab___1415806d1442489743t-raging-red-rover-r3-my-mahindra-scorpio-s10-4x4-nudge-guard.jpg.jpeg</filename>
+    <path>vehicle-PascalVOC-export/Annotations/319f51dc-9db2-4977-a43d-09561cdd54ab___1415806d1442489743t-raging-red-rover-r3-my-mahindra-scorpio-s10-4x4-nudge-guard.jpg.jpeg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>802</width>
+        <height>615</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>262.01854245401796</xmin>
+        <ymin>2.0847470881575245</ymin>
+        <xmax>508.09265923629215</xmax>
+        <ymax>62.54237288135594</ymax>
+    </bndbox>
+</object><object>
+    <name>car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1.3467932935654794</xmin>
+        <ymin>1.3898291830289162</ymin>
+        <xmax>802</xmax>
+        <ymax>499.64407840017543</ymax>
+    </bndbox>
+</object>
+</annotation>

@@ -1,0 +1,37 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>26cfb3dd-3731-4fd0-a6c2-c44e3ce7498a___used_cars_in_keralaused_bikes_in_keralaautomotive_news7.jpg.jpeg</filename>
+    <path>vehicle-PascalVOC-export/Annotations/26cfb3dd-3731-4fd0-a6c2-c44e3ce7498a___used_cars_in_keralaused_bikes_in_keralaautomotive_news7.jpg.jpeg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>531</width>
+        <height>512</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>164.82521697415967</xmin>
+        <ymin>274.8022598870057</ymin>
+        <xmax>330.9254717917793</xmax>
+        <ymax>328.0271451271187</ymax>
+    </bndbox>
+</object><object>
+    <name>car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>0.4611754456397948</xmin>
+        <ymin>19.091526527189266</ymin>
+        <xmax>531</xmax>
+        <ymax>507.37177789548025</ymax>
+    </bndbox>
+</object>
+</annotation>

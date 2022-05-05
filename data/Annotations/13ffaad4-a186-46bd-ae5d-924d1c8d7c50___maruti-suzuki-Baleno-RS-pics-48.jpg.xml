@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>13ffaad4-a186-46bd-ae5d-924d1c8d7c50___maruti-suzuki-Baleno-RS-pics-48.jpg.jpeg</filename>
+    <path>vehicle-PascalVOC-export/Annotations/13ffaad4-a186-46bd-ae5d-924d1c8d7c50___maruti-suzuki-Baleno-RS-pics-48.jpg.jpeg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>800</width>
+        <height>485</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>641.049671977507</xmin>
+        <ymin>331.50723582625943</ymin>
+        <xmax>745.4171120841144</xmax>
+        <ymax>386.678824328934</ymax>
+    </bndbox>
+</object>
+</annotation>

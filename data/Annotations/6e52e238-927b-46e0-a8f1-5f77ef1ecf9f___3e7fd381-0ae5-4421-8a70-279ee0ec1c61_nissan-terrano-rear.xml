@@ -1,0 +1,37 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>6e52e238-927b-46e0-a8f1-5f77ef1ecf9f___3e7fd381-0ae5-4421-8a70-279ee0ec1c61_nissan-terrano-rear.jpg</filename>
+    <path>vehicle-PascalVOC-export/Annotations/6e52e238-927b-46e0-a8f1-5f77ef1ecf9f___3e7fd381-0ae5-4421-8a70-279ee0ec1c61_nissan-terrano-rear.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>660</width>
+        <height>440</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>161.89265536723164</xmin>
+        <ymin>233.17514882922848</ymin>
+        <xmax>283.7005649717514</xmax>
+        <ymax>266.4858681199241</ymax>
+    </bndbox>
+</object><object>
+    <name>car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>63.451981194275255</xmin>
+        <ymin>40.76836537506621</ymin>
+        <xmax>585.4858605336335</xmax>
+        <ymax>411.6610321217338</ymax>
+    </bndbox>
+</object>
+</annotation>

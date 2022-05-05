@@ -1,0 +1,37 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>ee7cffcb-cedd-444f-9d3b-42372ba30073___pimlico-plumbers-van-with-personalised-number-plate-london-B8MJAT.jpg.jpeg</filename>
+    <path>vehicle-PascalVOC-export/Annotations/ee7cffcb-cedd-444f-9d3b-42372ba30073___pimlico-plumbers-van-with-personalised-number-plate-london-B8MJAT.jpg.jpeg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1300</width>
+        <height>924</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>391.07665383791084</xmin>
+        <ymin>667.6944206393495</ymin>
+        <xmax>805.5694074610992</xmax>
+        <ymax>780.8372777822066</ymax>
+    </bndbox>
+</object><object>
+    <name>car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>6.728778467908903</xmin>
+        <ymin>5.000512259347098</ymin>
+        <xmax>1288.9648690233564</xmax>
+        <ymax>821.7841672313457</ymax>
+    </bndbox>
+</object>
+</annotation>

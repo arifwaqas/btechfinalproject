@@ -1,0 +1,37 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>cbd81ff4-fc2a-4cd5-bed6-0fef4c456caa___226616d1495986750-zoomcar-review-mahindra-scorpio-s4-09-pamban.jpg.jpeg</filename>
+    <path>vehicle-PascalVOC-export/Annotations/cbd81ff4-fc2a-4cd5-bed6-0fef4c456caa___226616d1495986750-zoomcar-review-mahindra-scorpio-s4-09-pamban.jpg.jpeg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>2432</width>
+        <height>1368</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>810.163116265528</xmin>
+        <ymin>743.9287446585807</ymin>
+        <xmax>1078.0356414984471</xmax>
+        <ymax>852.7640576441643</ymax>
+    </bndbox>
+</object><object>
+    <name>car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>252.26338476966873</xmin>
+        <ymin>326.72651933701655</ymin>
+        <xmax>1339.8658692417184</xmax>
+        <ymax>1296.1673725612914</ymax>
+    </bndbox>
+</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>a285cdf6-4640-41ee-b3f3-b721f334466f___Skoda-Octavia-RS-launched-in-India-3.jpg.jpeg</filename>
+    <path>vehicle-PascalVOC-export/Annotations/a285cdf6-4640-41ee-b3f3-b721f334466f___Skoda-Octavia-RS-launched-in-India-3.jpg.jpeg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>500</width>
+        <height>344</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>175.27528138490055</xmin>
+        <ymin>254.80160651283322</ymin>
+        <xmax>351.4514575610767</xmax>
+        <ymax>291.6551605180188</ymax>
+    </bndbox>
+</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>7f369852-27b9-4141-8c48-9e88b20743a6___new_Mahindra-Scorpio-Taillamps-Night.JPG.jpeg</filename>
+    <path>vehicle-PascalVOC-export/Annotations/7f369852-27b9-4141-8c48-9e88b20743a6___new_Mahindra-Scorpio-Taillamps-Night.JPG.jpeg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>500</width>
+        <height>393</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>134.89872025332096</xmin>
+        <ymin>202.0508474576271</ymin>
+        <xmax>397.27385221390296</xmax>
+        <ymax>293.0847457627118</ymax>
+    </bndbox>
+</object>
+</annotation>

@@ -1,0 +1,37 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>8dbb3ea7-8512-49e4-9ede-d4647e3b7dd2___158712081_5_1000x700_toyota-innova-v-2010-7seat-life-tax-kerala_rev001.jpg.jpeg</filename>
+    <path>vehicle-PascalVOC-export/Annotations/8dbb3ea7-8512-49e4-9ede-d4647e3b7dd2___158712081_5_1000x700_toyota-innova-v-2010-7seat-life-tax-kerala_rev001.jpg.jpeg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1000</width>
+        <height>562</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>455.4554554554555</xmin>
+        <ymin>283.52500915527344</ymin>
+        <xmax>562.7627749820133</xmax>
+        <ymax>350.72499084472656</ymax>
+    </bndbox>
+</object><object>
+    <name>car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>199.19919919919926</xmin>
+        <ymin>56.32499694824219</ymin>
+        <xmax>719.7197197197198</xmax>
+        <ymax>535</ymax>
+    </bndbox>
+</object>
+</annotation>

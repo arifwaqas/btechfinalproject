@@ -1,0 +1,37 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>d0be15f3-4b3e-42f6-88d5-2a7fe4360dbe___Baleno-Number-Plates-Design.jpg.jpeg</filename>
+    <path>vehicle-PascalVOC-export/Annotations/d0be15f3-4b3e-42f6-88d5-2a7fe4360dbe___Baleno-Number-Plates-Design.jpg.jpeg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>959</width>
+        <height>959</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>304.4960286630749</xmin>
+        <ymin>424.77740939727613</ymin>
+        <xmax>685.9288466286525</xmax>
+        <ymax>554.8113077023609</ymax>
+    </bndbox>
+</object><object>
+    <name>car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>3.250839190294514</xmin>
+        <ymin>2.167229571584928</ymin>
+        <xmax>959.0000000000001</xmax>
+        <ymax>661.0056497175142</ymax>
+    </bndbox>
+</object>
+</annotation>

@@ -1,0 +1,37 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>59dfe90e-b266-4cf4-a0ee-39c61054897a___3e7fd381-0ae5-4421-8a70-279ee0ec1c61_Renault-Duster-vs-Nissan-Terrano-Road-Test.jpg</filename>
+    <path>vehicle-PascalVOC-export/Annotations/59dfe90e-b266-4cf4-a0ee-39c61054897a___3e7fd381-0ae5-4421-8a70-279ee0ec1c61_Renault-Duster-vs-Nissan-Terrano-Road-Test.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1024</width>
+        <height>685</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>727.3497016776938</xmin>
+        <ymin>380.8135652272715</ymin>
+        <xmax>828.007605741966</xmax>
+        <ymax>433.44632768361583</ymax>
+    </bndbox>
+</object><object>
+    <name>car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>587.203021620983</xmin>
+        <ymin>162.54237288135593</ymin>
+        <xmax>981.3172702032136</xmax>
+        <ymax>532.5197976322497</ymax>
+    </bndbox>
+</object>
+</annotation>

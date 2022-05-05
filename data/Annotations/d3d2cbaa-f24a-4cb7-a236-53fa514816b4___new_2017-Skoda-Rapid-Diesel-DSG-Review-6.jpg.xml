@@ -1,0 +1,37 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>d3d2cbaa-f24a-4cb7-a236-53fa514816b4___new_2017-Skoda-Rapid-Diesel-DSG-Review-6.jpg.jpeg</filename>
+    <path>vehicle-PascalVOC-export/Annotations/d3d2cbaa-f24a-4cb7-a236-53fa514816b4___new_2017-Skoda-Rapid-Diesel-DSG-Review-6.jpg.jpeg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>500</width>
+        <height>336</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>244.40994420653792</xmin>
+        <ymin>111.92450317947082</ymin>
+        <xmax>376.50104783336565</xmax>
+        <ymax>149.2003121162967</ymax>
+    </bndbox>
+</object><object>
+    <name>car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1.3457588527513586</xmin>
+        <ymin>1.3396001736445493</ymin>
+        <xmax>492.85718076717785</xmax>
+        <ymax>336</ymax>
+    </bndbox>
+</object>
+</annotation>

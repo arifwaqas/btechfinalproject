@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>931dfd5a-3d1f-4a08-9234-0453545e27ea___1297127d1412798792-maruti-ciaz-official-review-imag0627.jpg.jpeg</filename>
+    <path>vehicle-PascalVOC-export/Annotations/931dfd5a-3d1f-4a08-9234-0453545e27ea___1297127d1412798792-maruti-ciaz-official-review-imag0627.jpg.jpeg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>500</width>
+        <height>265</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>156.05604994643082</xmin>
+        <ymin>112.16875457763672</ymin>
+        <xmax>363.0630752823136</xmax>
+        <ymax>185.3687515258789</ymax>
+    </bndbox>
+</object>
+</annotation>

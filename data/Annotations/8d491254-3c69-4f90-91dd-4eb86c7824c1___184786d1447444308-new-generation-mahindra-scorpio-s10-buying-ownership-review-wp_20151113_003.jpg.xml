@@ -1,0 +1,37 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>8d491254-3c69-4f90-91dd-4eb86c7824c1___184786d1447444308-new-generation-mahindra-scorpio-s10-buying-ownership-review-wp_20151113_003.jpg.jpeg</filename>
+    <path>vehicle-PascalVOC-export/Annotations/8d491254-3c69-4f90-91dd-4eb86c7824c1___184786d1447444308-new-generation-mahindra-scorpio-s10-buying-ownership-review-wp_20151113_003.jpg.jpeg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1632</width>
+        <height>918</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>772.0553150807058</xmin>
+        <ymin>462.22605266095906</ymin>
+        <xmax>911.8943142361112</xmax>
+        <ymax>530.1776640542462</ymax>
+    </bndbox>
+</object><object>
+    <name>car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>441.40782774962463</xmin>
+        <ymin>96.33281422679535</ymin>
+        <xmax>1281.7489090653153</xmax>
+        <ymax>898.6844355898819</ymax>
+    </bndbox>
+</object>
+</annotation>

@@ -1,0 +1,37 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>fd0140cc-e887-43b8-a439-24877ea77670___Maruti-Suzuki-Baleno-Number-Plates-Design.jpg.jpeg</filename>
+    <path>vehicle-PascalVOC-export/Annotations/fd0140cc-e887-43b8-a439-24877ea77670___Maruti-Suzuki-Baleno-Number-Plates-Design.jpg.jpeg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>500</width>
+        <height>274</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>144.2029175057421</xmin>
+        <ymin>135.39090253721992</ymin>
+        <xmax>383.9544766191123</xmax>
+        <ymax>187.91617293447817</ymax>
+    </bndbox>
+</object><object>
+    <name>car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>3.8302245841016433</xmin>
+        <ymin>2.2165597591760022</ymin>
+        <xmax>500</xmax>
+        <ymax>274</ymax>
+    </bndbox>
+</object>
+</annotation>

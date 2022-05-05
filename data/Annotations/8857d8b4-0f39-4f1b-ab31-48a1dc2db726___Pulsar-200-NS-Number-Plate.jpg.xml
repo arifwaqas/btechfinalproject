@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>8857d8b4-0f39-4f1b-ab31-48a1dc2db726___Pulsar-200-NS-Number-Plate.jpg.jpeg</filename>
+    <path>vehicle-PascalVOC-export/Annotations/8857d8b4-0f39-4f1b-ab31-48a1dc2db726___Pulsar-200-NS-Number-Plate.jpg.jpeg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>503</width>
+        <height>495</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>160.6417111965811</xmin>
+        <ymin>187.3728813559322</ymin>
+        <xmax>503</xmax>
+        <ymax>470.3898219738977</ymax>
+    </bndbox>
+</object>
+</annotation>

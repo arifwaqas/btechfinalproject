@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>8187c22d-5fa4-4976-9c00-80b2ab66b97d___1290890d1411349145-take-look-number-plate-img_20140903_093600_hdr.jpg.jpeg</filename>
+    <path>vehicle-PascalVOC-export/Annotations/8187c22d-5fa4-4976-9c00-80b2ab66b97d___1290890d1411349145-take-look-number-plate-img_20140903_093600_hdr.jpg.jpeg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>550</width>
+        <height>534</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>88.68751839415668</xmin>
+        <ymin>234.11524963378906</ymin>
+        <xmax>269.50943620237587</xmax>
+        <ymax>325.2271278510659</ymax>
+    </bndbox>
+</object>
+</annotation>

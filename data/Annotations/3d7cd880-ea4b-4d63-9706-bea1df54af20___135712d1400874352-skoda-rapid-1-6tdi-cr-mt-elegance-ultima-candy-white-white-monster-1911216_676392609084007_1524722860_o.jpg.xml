@@ -1,0 +1,37 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>3d7cd880-ea4b-4d63-9706-bea1df54af20___135712d1400874352-skoda-rapid-1-6tdi-cr-mt-elegance-ultima-candy-white-white-monster-1911216_676392609084007_1524722860_o.jpg.jpeg</filename>
+    <path>vehicle-PascalVOC-export/Annotations/3d7cd880-ea4b-4d63-9706-bea1df54af20___135712d1400874352-skoda-rapid-1-6tdi-cr-mt-elegance-ultima-candy-white-white-monster-1911216_676392609084007_1524722860_o.jpg.jpeg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>769</width>
+        <height>417</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>293.90645793138987</xmin>
+        <ymin>257.4867068228012</ymin>
+        <xmax>493.97621253459613</xmax>
+        <ymax>308.27699182107784</ymax>
+    </bndbox>
+</object><object>
+    <name>car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>114.59325210871603</xmin>
+        <ymin>46.82232494420246</ymin>
+        <xmax>681.3614046620563</xmax>
+        <ymax>397.7371994335346</ymax>
+    </bndbox>
+</object>
+</annotation>

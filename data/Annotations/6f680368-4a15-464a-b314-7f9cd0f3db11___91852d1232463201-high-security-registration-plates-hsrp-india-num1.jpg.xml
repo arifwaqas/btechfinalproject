@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>6f680368-4a15-464a-b314-7f9cd0f3db11___91852d1232463201-high-security-registration-plates-hsrp-india-num1.jpg.jpeg</filename>
+    <path>vehicle-PascalVOC-export/Annotations/6f680368-4a15-464a-b314-7f9cd0f3db11___91852d1232463201-high-security-registration-plates-hsrp-india-num1.jpg.jpeg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>441</width>
+        <height>363</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>203.66765473831532</xmin>
+        <ymin>171.04068109544656</ymin>
+        <xmax>354.2229910562205</xmax>
+        <ymax>296.9627181230965</ymax>
+    </bndbox>
+</object>
+</annotation>

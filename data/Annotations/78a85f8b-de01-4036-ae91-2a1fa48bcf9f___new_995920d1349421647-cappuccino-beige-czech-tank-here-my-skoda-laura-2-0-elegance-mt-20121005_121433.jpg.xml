@@ -1,0 +1,37 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>78a85f8b-de01-4036-ae91-2a1fa48bcf9f___new_995920d1349421647-cappuccino-beige-czech-tank-here-my-skoda-laura-2-0-elegance-mt-20121005_121433.jpg.jpeg</filename>
+    <path>vehicle-PascalVOC-export/Annotations/78a85f8b-de01-4036-ae91-2a1fa48bcf9f___new_995920d1349421647-cappuccino-beige-czech-tank-here-my-skoda-laura-2-0-elegance-mt-20121005_121433.jpg.jpeg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>500</width>
+        <height>333</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>145.36100227879894</xmin>
+        <ymin>219.3661131778006</ymin>
+        <xmax>345.17284978254713</xmax>
+        <ymax>272.0440792794955</ymax>
+    </bndbox>
+</object><object>
+    <name>car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>0.8642962824479656</xmin>
+        <ymin>0.376272621801344</ymin>
+        <xmax>500</xmax>
+        <ymax>333</ymax>
+    </bndbox>
+</object>
+</annotation>

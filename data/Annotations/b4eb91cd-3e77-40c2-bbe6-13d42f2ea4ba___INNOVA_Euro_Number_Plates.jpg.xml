@@ -1,0 +1,37 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>b4eb91cd-3e77-40c2-bbe6-13d42f2ea4ba___INNOVA_Euro_Number_Plates.jpg.jpeg</filename>
+    <path>vehicle-PascalVOC-export/Annotations/b4eb91cd-3e77-40c2-bbe6-13d42f2ea4ba___INNOVA_Euro_Number_Plates.jpg.jpeg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>500</width>
+        <height>350</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>160.8608730801114</xmin>
+        <ymin>146.43420163483407</ymin>
+        <xmax>342.242236132617</xmax>
+        <ymax>197.3068646606969</ymax>
+    </bndbox>
+</object><object>
+    <name>car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>5.105111214730356</xmin>
+        <ymin>1.4270416827331456</ymin>
+        <xmax>499.59963625735116</xmax>
+        <ymax>347.5214722159935</ymax>
+    </bndbox>
+</object>
+</annotation>

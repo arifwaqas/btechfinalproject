@@ -1,0 +1,37 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>684f079f-6085-420c-8e4e-e1aed270fc05___Toyota-Fortuner-Number-Plates-Design.jpg.jpeg</filename>
+    <path>vehicle-PascalVOC-export/Annotations/684f079f-6085-420c-8e4e-e1aed270fc05___Toyota-Fortuner-Number-Plates-Design.jpg.jpeg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1250</width>
+        <height>703</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>540.5342366612729</xmin>
+        <ymin>380.1472464243571</ymin>
+        <xmax>774.8360173548061</xmax>
+        <ymax>484.1912678782145</ymax>
+    </bndbox>
+</object><object>
+    <name>car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>256.56044985941895</xmin>
+        <ymin>9.900597635904948</ymin>
+        <xmax>1015.6982193064669</xmax>
+        <ymax>640.725905939738</ymax>
+    </bndbox>
+</object>
+</annotation>

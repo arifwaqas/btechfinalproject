@@ -1,0 +1,37 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>e750b959-1b5a-41bf-bf64-d8099089e909___3e7fd381-0ae5-4421-8a70-279ee0ec1c61_Nissan-Terrano-Duster-launch-dare-pics-price-interiors-images-1.jpg</filename>
+    <path>vehicle-PascalVOC-export/Annotations/e750b959-1b5a-41bf-bf64-d8099089e909___3e7fd381-0ae5-4421-8a70-279ee0ec1c61_Nissan-Terrano-Duster-launch-dare-pics-price-interiors-images-1.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1024</width>
+        <height>772</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>298.76211395101177</xmin>
+        <ymin>355.03277501682777</ymin>
+        <xmax>567.4666533546326</xmax>
+        <ymax>433.541249593099</ymax>
+    </bndbox>
+</object><object>
+    <name>car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>46.63345314164005</xmin>
+        <ymin>48.84972084174722</ymin>
+        <xmax>891.1335197018105</xmax>
+        <ymax>755.4259753900733</ymax>
+    </bndbox>
+</object>
+</annotation>

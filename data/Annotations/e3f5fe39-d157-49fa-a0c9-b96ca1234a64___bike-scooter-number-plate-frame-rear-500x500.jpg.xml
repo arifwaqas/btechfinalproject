@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>e3f5fe39-d157-49fa-a0c9-b96ca1234a64___bike-scooter-number-plate-frame-rear-500x500.jpg.jpeg</filename>
+    <path>vehicle-PascalVOC-export/Annotations/e3f5fe39-d157-49fa-a0c9-b96ca1234a64___bike-scooter-number-plate-frame-rear-500x500.jpg.jpeg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>500</width>
+        <height>282</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>117.70187599071558</xmin>
+        <ymin>82.38151849869195</ymin>
+        <xmax>357.45343510408577</xmax>
+        <ymax>199.9418759967209</ymax>
+    </bndbox>
+</object>
+</annotation>

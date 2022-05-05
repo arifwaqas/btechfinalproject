@@ -1,0 +1,37 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>a1928183-9ebe-40f0-9a84-500aecc61474___2014-Skoda-Superb-facelift-spied-in-India.jpg.jpeg</filename>
+    <path>vehicle-PascalVOC-export/Annotations/a1928183-9ebe-40f0-9a84-500aecc61474___2014-Skoda-Superb-facelift-spied-in-India.jpg.jpeg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>594</width>
+        <height>379</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>421.805419921875</xmin>
+        <ymin>166.75554557728543</ymin>
+        <xmax>516.4648503483953</xmax>
+        <ymax>210.47717929708546</ymax>
+    </bndbox>
+</object><object>
+    <name>car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1.7837837837837838</xmin>
+        <ymin>9.452722447792938</ymin>
+        <xmax>573.5459314294764</xmax>
+        <ymax>362.07716841981704</ymax>
+    </bndbox>
+</object>
+</annotation>

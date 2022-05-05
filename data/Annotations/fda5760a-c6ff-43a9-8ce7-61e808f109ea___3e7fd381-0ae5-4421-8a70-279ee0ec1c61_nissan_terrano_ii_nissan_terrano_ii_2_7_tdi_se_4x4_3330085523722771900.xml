@@ -1,0 +1,37 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>fda5760a-c6ff-43a9-8ce7-61e808f109ea___3e7fd381-0ae5-4421-8a70-279ee0ec1c61_nissan_terrano_ii_nissan_terrano_ii_2_7_tdi_se_4x4_3330085523722771900.jpg</filename>
+    <path>vehicle-PascalVOC-export/Annotations/fda5760a-c6ff-43a9-8ce7-61e808f109ea___3e7fd381-0ae5-4421-8a70-279ee0ec1c61_nissan_terrano_ii_nissan_terrano_ii_2_7_tdi_se_4x4_3330085523722771900.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>600</width>
+        <height>450</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>471.10174146749205</xmin>
+        <ymin>290.33897529214113</ymin>
+        <xmax>550.9322344246557</xmax>
+        <ymax>355.4237365722656</ymax>
+    </bndbox>
+</object><object>
+    <name>car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>22.627122523420947</xmin>
+        <ymin>18.30508668543928</ymin>
+        <xmax>587.2881355932202</xmax>
+        <ymax>443.00847457627117</ymax>
+    </bndbox>
+</object>
+</annotation>

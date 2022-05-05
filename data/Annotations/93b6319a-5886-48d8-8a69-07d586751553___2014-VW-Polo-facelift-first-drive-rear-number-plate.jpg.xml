@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>93b6319a-5886-48d8-8a69-07d586751553___2014-VW-Polo-facelift-first-drive-rear-number-plate.jpg.jpeg</filename>
+    <path>vehicle-PascalVOC-export/Annotations/93b6319a-5886-48d8-8a69-07d586751553___2014-VW-Polo-facelift-first-drive-rear-number-plate.jpg.jpeg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1280</width>
+        <height>847</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>354.4024493243243</xmin>
+        <ymin>298.9967877709739</ymin>
+        <xmax>1102.6706393893894</xmax>
+        <ymax>512.2203805551226</ymax>
+    </bndbox>
+</object>
+</annotation>

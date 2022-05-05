@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>1fbaa27e-1ca4-463b-84b4-9ea91b82f27e___166073d1427874044-mahindra-scorpio-2015-review-pictures-scorpio-sting-body-colour-aplique.jpg.jpeg</filename>
+    <path>vehicle-PascalVOC-export/Annotations/1fbaa27e-1ca4-463b-84b4-9ea91b82f27e___166073d1427874044-mahindra-scorpio-2015-review-pictures-scorpio-sting-body-colour-aplique.jpg.jpeg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>320</width>
+        <height>240</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>39.559326171875</xmin>
+        <ymin>9.762712898900952</ymin>
+        <xmax>264.6440926244703</xmax>
+        <ymax>226.9830632613877</ymax>
+    </bndbox>
+</object>
+</annotation>

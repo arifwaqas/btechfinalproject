@@ -1,0 +1,37 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>41209caa-2aa2-4003-b057-e0508c1d5ac9___Volkswagen-Ameo-Exterior-68165.jpg.jpeg</filename>
+    <path>vehicle-PascalVOC-export/Annotations/41209caa-2aa2-4003-b057-e0508c1d5ac9___Volkswagen-Ameo-Exterior-68165.jpg.jpeg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>600</width>
+        <height>337</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>197.82567261085404</xmin>
+        <ymin>198.06485122909928</ymin>
+        <xmax>274.7516607053948</xmax>
+        <ymax>229.12063486548217</ymax>
+    </bndbox>
+</object><object>
+    <name>car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>156.8884723523899</xmin>
+        <ymin>57.638812974219725</ymin>
+        <xmax>584.7048072135661</xmax>
+        <ymax>298.88357309586615</ymax>
+    </bndbox>
+</object>
+</annotation>

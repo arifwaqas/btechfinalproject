@@ -1,0 +1,37 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>f7621229-eebc-4dff-aef8-e79fac571be4___Skoda-Octavia-5.jpg.jpeg</filename>
+    <path>vehicle-PascalVOC-export/Annotations/f7621229-eebc-4dff-aef8-e79fac571be4___Skoda-Octavia-5.jpg.jpeg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>586</width>
+        <height>331</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>185.0207039337474</xmin>
+        <ymin>206.374882988004</ymin>
+        <xmax>248.59502365080712</xmax>
+        <ymax>231.59391580658516</ymax>
+    </bndbox>
+</object><object>
+    <name>car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>135.03480482397612</xmin>
+        <ymin>52.63566664811019</ymin>
+        <xmax>531.5250961903953</xmax>
+        <ymax>282.5169927296621</ymax>
+    </bndbox>
+</object>
+</annotation>

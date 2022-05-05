@@ -1,0 +1,37 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>e706cec0-783a-42bc-b934-64788481cd92___4-Innova-After-2.jpg.jpeg</filename>
+    <path>vehicle-PascalVOC-export/Annotations/e706cec0-783a-42bc-b934-64788481cd92___4-Innova-After-2.jpg.jpeg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>500</width>
+        <height>372</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>176.1620465446921</xmin>
+        <ymin>177.3830540543896</ymin>
+        <xmax>321.96035304991136</xmax>
+        <ymax>215.21356252896587</ymax>
+    </bndbox>
+</object><object>
+    <name>car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>5.573801633690586</xmin>
+        <ymin>0</ymin>
+        <xmax>489.1872245724462</xmax>
+        <ymax>372.00000000000006</ymax>
+    </bndbox>
+</object>
+</annotation>

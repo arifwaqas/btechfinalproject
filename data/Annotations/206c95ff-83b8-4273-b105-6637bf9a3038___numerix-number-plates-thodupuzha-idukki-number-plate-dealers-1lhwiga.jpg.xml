@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>206c95ff-83b8-4273-b105-6637bf9a3038___numerix-number-plates-thodupuzha-idukki-number-plate-dealers-1lhwiga.jpg.jpeg</filename>
+    <path>vehicle-PascalVOC-export/Annotations/206c95ff-83b8-4273-b105-6637bf9a3038___numerix-number-plates-thodupuzha-idukki-number-plate-dealers-1lhwiga.jpg.jpeg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>2000</width>
+        <height>1500</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>540.4661792819783</xmin>
+        <ymin>444.06780954134666</ymin>
+        <xmax>1772.66964669955</xmax>
+        <ymax>1064.4068313857256</ymax>
+    </bndbox>
+</object>
+</annotation>

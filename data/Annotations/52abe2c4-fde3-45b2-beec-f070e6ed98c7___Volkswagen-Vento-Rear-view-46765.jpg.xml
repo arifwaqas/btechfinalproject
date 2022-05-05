@@ -1,0 +1,37 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>52abe2c4-fde3-45b2-beec-f070e6ed98c7___Volkswagen-Vento-Rear-view-46765.jpg.jpeg</filename>
+    <path>vehicle-PascalVOC-export/Annotations/52abe2c4-fde3-45b2-beec-f070e6ed98c7___Volkswagen-Vento-Rear-view-46765.jpg.jpeg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>630</width>
+        <height>353</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>252.5904332798222</xmin>
+        <ymin>197.95005910611872</ymin>
+        <xmax>372.5679475164011</xmax>
+        <ymax>232.42363409852504</ymax>
+    </bndbox>
+</object><object>
+    <name>car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>109.94002595166793</xmin>
+        <ymin>3.386853808144662</ymin>
+        <xmax>508.1330689963829</xmax>
+        <ymax>341.51128833987644</ymax>
+    </bndbox>
+</object>
+</annotation>

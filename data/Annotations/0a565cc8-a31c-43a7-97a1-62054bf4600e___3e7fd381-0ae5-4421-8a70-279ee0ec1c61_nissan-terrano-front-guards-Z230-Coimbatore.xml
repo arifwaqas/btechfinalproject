@@ -1,0 +1,37 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>0a565cc8-a31c-43a7-97a1-62054bf4600e___3e7fd381-0ae5-4421-8a70-279ee0ec1c61_nissan-terrano-front-guards-Z230-Coimbatore.jpg</filename>
+    <path>vehicle-PascalVOC-export/Annotations/0a565cc8-a31c-43a7-97a1-62054bf4600e___3e7fd381-0ae5-4421-8a70-279ee0ec1c61_nissan-terrano-front-guards-Z230-Coimbatore.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>960</width>
+        <height>300</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>plate</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>441.44100592003105</xmin>
+        <ymin>139.2094492122827</ymin>
+        <xmax>561.4906832298136</xmax>
+        <ymax>180.53395858663595</ymax>
+    </bndbox>
+</object><object>
+    <name>car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>218.0372913431677</xmin>
+        <ymin>4.110111463938328</ymin>
+        <xmax>784.8944584627329</xmax>
+        <ymax>300</ymax>
+    </bndbox>
+</object>
+</annotation>
